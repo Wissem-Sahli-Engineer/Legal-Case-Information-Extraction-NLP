@@ -1,0 +1,32 @@
+# Python 3.12 obligatoire (TensorFlow 2.18 ne supporte pas Python 3.13+)
+# Mac Apple Silicon : tensorflow-metal active le GPU
+
+# --- Deep learning (TensorFlow uniquement, pas de PyTorch) ---
+tensorflow==2.18.1
+tensorflow-metal==1.2.0        # GPU Apple (M1/M2/M3/M4) ; à retirer sous Linux/Windows
+tf-keras==2.18.0               # Keras 2, requis par les modèles TF de transformers
+transformers==4.57.6           # dernière version avec les classes TensorFlow (supprimées en v5)
+sentencepiece==0.2.2           # tokenizer de CamemBERT
+setuptools<75                  # fournit distutils, importé par TensorFlow 2.18
+
+# --- NLP classique ---
+spacy==3.8.16
+scikit-learn==1.9.1
+
+# --- Données ---
+pandas==3.0.6
+pyarrow==25.0.1
+numpy==2.0.2
+requests==2.34.2
+
+# --- PDF / OCR ---
+pymupdf==1.28.2
+pytesseract==0.3.13            # nécessite aussi le binaire : brew install tesseract
+pillow==12.3.0
+
+# --- Visualisation, notebooks, rapport ---
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyter==1.1.1
+ipykernel==7.4.0
+reportlab==5.0.1
