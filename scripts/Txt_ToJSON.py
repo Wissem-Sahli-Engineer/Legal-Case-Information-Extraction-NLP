@@ -21,6 +21,12 @@ import json
 import re
 import sys
 from pathlib import Path
+# pyrefly: ignore [missing-import]
+import pymupdf
+# pyrefly: ignore [missing-import]
+import pytesseract
+# pyrefly: ignore [missing-import]
+from PIL import Image
 
 # ----------------------------------------------------------------------------
 # 1. LECTURE DU FICHIER
@@ -29,7 +35,8 @@ from pathlib import Path
 def detect_pdf_type(pdf_path, pages_to_check=5):
     """Renvoie 'natif' si le PDF contient du texte, 'scanne' sinon.
     Idée : un PDF scanné ne contient que des images, donc PyMuPDF n'y trouve presque aucun caractère."""
-    import pymupdf
+    # pyrefly: ignore [missing-import]
+
     doc = pymupdf.open(pdf_path)
     n = min(pages_to_check, len(doc))
     chars = sum(len(doc[i].get_text().strip()) for i in range(n))
@@ -48,16 +55,13 @@ def ask_pdf_type(pdf_path):
 
 def read_pdf_native(pdf_path):
     """PDF natif : on lit le texte de chaque page avec PyMuPDF."""
-    import pymupdf
+
     doc = pymupdf.open(pdf_path)
     return "\n".join(page.get_text() for page in doc)
 
 
 def read_pdf_ocr(pdf_path, dpi=300):
     """PDF scanné : chaque page est transformée en image, puis Tesseract reconnaît les lettres."""
-    import pymupdf
-    import pytesseract
-    from PIL import Image
     doc = pymupdf.open(pdf_path)
     pages = []
     for i, page in enumerate(doc):
