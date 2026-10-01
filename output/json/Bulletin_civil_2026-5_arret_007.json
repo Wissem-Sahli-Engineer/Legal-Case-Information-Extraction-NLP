@@ -1,0 +1,31 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 7,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Deuxième chambre civile",
+    "date": "2026-05-21",
+    "case_number": "24-13.636",
+    "president": "Mme Martinel"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Rouen, 26 octobre 2023), M. [K] a relevé appel, le 11 mai\n2023, d'un jugement d'orientation d'un juge de l'exécution du 20 avril 2023 rendu\nsur des poursuites de saisie immobilière engagées par la société Caisse d'épargne et de\nprévoyance Normandie (la banque) à son encontre.\n2. Le 28 juin 2023, M. [K] a déposé au greffe une seconde déclaration d'appel contre\nle même jugement et a, par requête du 5 juillet 2023, sollicité l'autorisation d'assigner\nà jour fixe. Il a été fait droit à cette requête par ordonnance du premier président du\n10 juillet 2023.\n3. Par une ordonnance du 13 juillet 2023, le président de la chambre d'une cour\nd'appel a déclaré l'appel du 11 mai 2023 irrecevable.",
+    "claims": "Examen du moyen\nSur le moyen, pris en sa deuxième branche\nEnoncé du moyen\n4. M. [K] fait grief à l'arrêt de déclarer irrecevable l'appel qu'il a interjeté le 28 juin\n2023 à l'encontre du jugement du 20 avril 2023, alors « que la saisine irrégulière d'une\ncour d'appel, qui fait encourir une irrecevabilité à l'appel, n'interdit pas à son auteur\nde former un second appel, même sans désistement préalable de son premier appel,\nsous réserve de l'absence d'expiration du délai d'appel, tant que le premier appel n'a\npas été déclaré irrecevable ; qu'après avoir constaté que les dispositions de l'article 9111, alinéa 3, du code de procédure civile ne sauraient trouver application dès lors que\nla seconde déclaration d'appel a été déposée le 28 juin 2023 soit antérieurement à\nl'irrecevabilité du premier appel déclarée le 13 juillet 2023, l'arrêt attaqué se fonde\nsur la jurisprudence de la Cour de cassation relative à la caducité d'un premier appel,\nn° 19-23.423, pour en déduire que l'appel formé le 28 juin 2023 est irrecevable, au\nmotif que le premier appel n'avait pas encore été déclaré irrecevable à cette date, de\nsorte que M. [K] n'avait pas intérêt à interjeter appel contre le même jugement entre\nles mêmes parties ; qu'en statuant par ce motif erroné, la cour d'appel, qui a refusé de\ntirer les conséquences légales de ses constatations, a violé les articles 546 et 9111, alinéa\n3, du code de procédure civile. »"
+  },
+  "legal_foundations": {
+    "statutes": [],
+    "previous_decision": {
+      "court": "Cour d'appel de Rouen",
+      "date": "2023-10-26"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation",
+    "orders": [
+      "CASSE ET ANNULE, en toutes ses dispositions, l'arrêt rendu le 26 octobre 2023, entre les parties, par la cour d'appel de Rouen",
+      "Remet l'affaire et les parties dans l'état où elles se trouvaient avant cet arrêt et les renvoie devant la cour d'appel de Caen."
+    ],
+    "reasoning": "Réponse de la Cour\nVu les articles 546 et 911-1, alinéa 3, du code de procédure civile et R. 322-19, alinéa\n1er, du code des procédures civiles d'exécution :\n5. Aux termes du troisième de ces textes, l'appel contre le jugement d'orientation est\nformé, instruit et jugé selon la procédure à jour fixe sans que l'appelant ait à se prévaloir dans sa requête d'un péril.\n\nArrêts des chambres et ordonnances du Premier Président\n6. Selon le premier, le droit d'appel appartient à toute partie qui y a intérêt, si elle n'y\na pas renoncé.\nSelon le deuxième, la partie dont l'appel a été déclaré irrecevable n'est plus recevable\nà former un appel principal contre le même jugement et à l'égard de la même partie.\n7. Il en découle qu'en cas de saisine irrégulière d'une cour d'appel, faisant encourir\nune irrecevabilité à l'appel faute pour l'appelant d'avoir respecté la procédure à jour\nfixe, celui-ci peut former un second appel, sous réserve de l'absence d'expiration du\ndélai d'appel, pour autant que le premier appel n'a pas été déclaré irrecevable.\n8. Pour déclarer irrecevable le second appel de M. [K], l'arrêt relève que l'appel du\n28 juin 2023 a été déposé alors qu'aucune décision d'irrecevabilité portant sur la\npremière déclaration du 11 mai 2023 n'avait encore été prononcée et que, lorsque\nla cour d'appel est régulièrement saisie par une première déclaration d'appel dont la\ncaducité ou l'irrecevabilité n'a pas été constatée, le second appel est irrecevable faute\nd'intérêt pour son auteur à interjeter un appel dirigé contre le même jugement entre\nles mêmes parties.\n9. Il retient que la première déclaration d'appel formée le 11 mai 2023 ayant régulièrement saisi la cour d'appel, l'appelant ne pouvait réitérer sa déclaration d'appel dans\nles mêmes termes le 28 juin 2023, date à laquelle le premier appel n'avait pas encore\nété déclaré irrecevable et en déduit que l'appel interjeté le 28 juin 2023 est irrecevable.\n10. En statuant ainsi, alors que la première saisine du juge d'appel était irrégulière\npour ne pas avoir été formée selon la procédure à jour fixe et qu'elle n'avait pas été\ndéclarée irrecevable à la date de la seconde déclaration d'appel, la cour d'appel a violé\nles textes susvisés."
+  }
+}

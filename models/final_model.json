@@ -1,0 +1,25 @@
+{
+  "final_model": "A",
+  "name": "A · TF-IDF + Régression logistique",
+  "val_f1_macro": 0.9624698312876283,
+  "labels": [
+    "Rejet",
+    "Cassation",
+    "Irrecevabilité",
+    "Autre"
+  ],
+  "seq_len_b": 300,
+  "max_len_c": 256,
+  "negations": [
+    "ne",
+    "n'",
+    "n’",
+    "pas",
+    "non",
+    "ni",
+    "sans",
+    "aucun",
+    "aucune",
+    "jamais"
+  ]
+}

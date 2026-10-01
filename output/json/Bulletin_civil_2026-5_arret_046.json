@@ -1,0 +1,38 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 46,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Deuxième chambre civile",
+    "date": "2026-05-21",
+    "case_number": "25-70.025",
+    "president": "Mme Martinel"
+  },
+  "narrative": {
+    "facts": "",
+    "claims": ""
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 16 du code de procédure civile",
+      "article l. 311-2 du code des procédures civiles d'exécution",
+      "article r. 322-15 du code des procédures civiles d'exécution",
+      "article 4 du code de procédure civile",
+      "article l. 111-3 du code des procédures civiles d'exécution",
+      "article 1031-6 du code de procédure civile"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Autre",
+    "verdict_header": null,
+    "orders": [
+      "EST D'AVIS QUE : 1°/ Si un décompte actualisé est produit, le juge, pour mentionner la créance du poursuivant dans le jugement d'orientation, prend en considération, dans la limite des demandes des parties, le cas échéant jusqu'au jour où il statue, les échéances impayées devenues exigibles par l'écoulement du temps en application du contrat de prêt notarié, et portées par cet acte valant titre exécutoire au sens de l'article L. 111-3 du code des procédures civiles d'exécution. Ces échéances devenues exigibles, en application du contrat de prêt et de son tableau d'amortissement, sont, en premier lieu, les mensualités impayées échues avant le prononcé de la déchéance du terme visées en tant que telles par le décompte du commandement de payer valant saisie, en deuxième lieu, les mensualités impayées dont le terme est parvenu à échéance entre la date de la déchéance du terme irrégulièrement prononcée et la date de la mesure d'exécution pratiquée, et en troisième lieu, les mensualités impayées échues postérieurement au commandement jusqu'à la date du jugement d'orientation 2°/ Si aucun décompte actualisé n'est produit, le juge de l'exécution ne peut retenir que les mensualités impayées échues avant la date de la déchéance du terme irrégulièrement prononcée, qui figurent en tant que telles dans le décompte du commandement de payer valant saisie. Dit que, par application de l'article 1031-6 du code de procédure civile, le présent avis sera publié au Journal officiel de la République française.",
+      "Arrêts des chambres et ordonnances du Premier Président"
+    ],
+    "reasoning": ""
+  }
+}

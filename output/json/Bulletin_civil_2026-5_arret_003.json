@@ -1,0 +1,32 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 3,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Première chambre civile",
+    "date": "2026-05-20",
+    "case_number": "25-14.686",
+    "president": "Mme Champalaune"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Versailles, 6 mars 2025), le 5 octobre 2018, Mme [U] a assigné\nM. [E] en établissement de paternité à l'égard de ses enfants [D], né le 29 juillet 2014,\net [K], né le 30 septembre 2017, que celui-ci a reconnus le 4 juin 2020.\n2. Le 5 juillet 2021, Mme [U] a saisi un juge aux affaires familiales d'une demande en\ncondamnation de M. [E] au paiement d'une contribution à l'entretien et à l'éducation\ndes enfants.\n\nArrêts des chambres et ordonnances du Premier Président",
+    "claims": "Examen du moyen\nEnoncé du moyen\n3. M. [E] fait grief à l'arrêt de fixer la contribution mensuelle à l'entretien et à l'éducation des enfants à la somme de 1 000 euros par mois et par enfant, soit la somme\ntotale de 2 000 euros par mois, de dire qu'elle devra être versée par le père au domicile\nou à la résidence de la mère, prestations familiales en sus, de condamner, en tant que de\nbesoin, le débiteur à la payer, et de dire que la contribution mensuelle à l'entretien et à\nl'éducation des enfants, fixée à 1 000 euros par mois et par enfant, est due à Mme [U]\nà compter du 5 juillet 2016 pour l'enfant [D] et du 30 septembre 2017 pour l'enfant\n[K], alors « que le parent qui a subvenu seul aux besoins des enfants communs dispose\ncontre l'autre parent d'un recours personnel pour les seules sommes qu'il a payées\nexcédant sa part contributive, compte tenu de leurs facultés respectives ; que dès lors\nen retenant, pour le condamner à payer à Mme [U], qui avait agi le 5 juillet 2021 en\nson nom propre et non en qualité de représentante légale des enfants, la somme de\n1 000 euros par mois à compter du 5 juillet 2016 pour l'enfant [D] et à compter du\n30 septembre 2017 pour l'enfant [K], que Mme [U] n'avait pas à justifier de dépenses\nexposées pour les enfants sur les périodes des cinq années précédant la requête du\n5 juillet 2021 dans la mesure où il n'est pas contesté que les enfants vivaient avec leur\nmère et qu'elle a ainsi nécessairement pris en charge les enfants financièrement, faute\nde contribution paternelle », la cour d'appel a violé les articles 371-2 et 1346 du code\ncivil. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 371-2 du code civil"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi."
+    ],
+    "reasoning": "Réponse de la Cour\n4. Aux termes du premier alinéa de l'article 371-2 du code civil, chacun des parents\ncontribue à l'entretien et à l'éducation des enfants à proportion de ses ressources, de\ncelles de l'autre parent, ainsi que des besoins de l'enfant.\n5. Cette obligation s'analyse non seulement en une obligation envers l'enfant, qui ne\npeut en invoquer le bénéfice qu'à sa majorité, mais également en une obligation entre\nparents permettant à celui qui en assume la charge entière de recourir contre l'autre\npour la part incombant à ce dernier, à proportion de leurs facultés respectives, tant\npour le passé, dans la limite des cinq années précédant l'introduction de l'instance, que\npour l'avenir.\n6. La cour d'appel a exactement retenu, par motifs propres et adoptés, qu'il convenait\nde fixer le montant de la contribution de M. [E] à l'entretien et à l'éducation des\nenfants compte tenu de la situation financière de chacune des parties et des besoins\ndes enfants et que Mme [U] n'avait pas à justifier, pour la période antérieure à sa requête, des dépenses exposées pour eux, dans la mesure où il n'était pas contesté que\nles enfants vivaient avec leur mère et qu'elle les avait nécessairement pris en charge\nfinancièrement, faute de contribution paternelle.\n7. Le moyen n'est donc pas fondé."
+  }
+}

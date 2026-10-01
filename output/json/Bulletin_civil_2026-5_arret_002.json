@@ -1,0 +1,36 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 2,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Troisième chambre civile",
+    "date": "2026-05-07",
+    "case_number": "24-10.637",
+    "president": "Mme Teiller"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Aix-en-Provence, 25 octobre 2023), le 5 avril 2018, la société\nMaya (l'agent immobilier) a fait visiter à M. et Mme [F] (les acquéreurs) la villa de\nM. et Mme [T] (les vendeurs) desquels elle avait reçu un mandat non exclusif de vente\nprévoyant une commission de 6 % du prix de vente, fixé à 2 990 000 euros, à la charge\nde l'acquéreur.\n2. La vente est intervenue directement entre les vendeurs et les acquéreurs au prix de\n2 500 000 euros par acte du 29 août 2018, sans rémunération de l'agent immobilier.\n3. Leur reprochant la perte de sa commission, l'agent immobilier a assigné les acquéreurs en indemnisation.",
+    "claims": "Examen du moyen\nEnoncé du moyen\n4. Les acquéreurs font grief à l'arrêt de les condamner in solidum à payer à l'agent\nimmobilier une certaine somme à titre de dommages et intérêts, alors « que n'est pas\nfautif ni frauduleux le fait, pour l'acquéreur non lié contractuellement à l'agent immobilier, titulaire d'un mandat non exclusif de vente, par l'intermédiaire duquel il a visité\n\nArrêts des chambres et ordonnances du Premier Président\nle bien, d'adresser une nouvelle offre d'achat directement aux vendeurs et de conclure\nfinalement la vente avec eux ; qu'en l'espèce, pour déclarer les époux [F] responsables\ndu préjudice de l'agent immobilier et les condamner à lui payer, à titre de dommages\net intérêts, la somme de 150 000 euros correspondant à la commission qu'il aurait\nperçue si la vente avec été conclue avec son entremise, l'arrêt s'est borné à constater\nque les époux [F] avaient visité le bien une première fois avec la société Maya puis avec\nun autre mandataire non exclusif, et qu'ils avaient ensuite directement conclu la vente\navec les acquéreurs sans l'entremise des agents immobiliers ; qu'en statuant ainsi, quand\nil résultait de ses constatations que les époux [F] avaient seulement agi dans le sens\nexclusif de leurs propres intérêts en entrant directement en contact avec les mandants\npour leur proposer une nouvelle offre, serait-ce dans le but de payer un prix moindre,\nnotamment du fait de l'absence de commission d'agence, ce qui ne suffisait pas à caractériser une faute ou une fraude aux droits de l'agent immobilier, la cour d'appel a\nprivé son arrêt de base légale au regard de l'article 1240 du code civil. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 1240 du code civil",
+      "article 1200 et 1240 du code civil",
+      "article 6 de la loi n° 70-9",
+      "article 73 de la décret n° 72-678"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi.",
+      "Arrêts des chambres et ordonnances du Premier Président"
+    ],
+    "reasoning": "Réponse de la Cour\n5. Il résulte des articles 1200 et 1240 du code civil que le tiers à un contrat qui se\nrend complice de la violation par une partie de ses obligations contractuelles engage\nsa responsabilité délictuelle.\n6. Il est jugé, sur le fondement de l'article 1382, devenu 1240, du code civil, et des articles 6 de la loi n° 70-9 du 2 janvier 1970 et 73 du décret n° 72-678 du 20 juillet 1972\nque, même s'il n'est pas débiteur de la commission, l'acquéreur dont le comportement\nfautif a fait perdre celle-ci à l'agent immobilier, par l'entremise duquel il a été mis en\nrapport avec le vendeur qui l'avait mandaté, doit, sur le fondement de la responsabilité\ndélictuelle, réparation à cet agent immobilier de son préjudice (Ass. plén., 9 mai 2008,\npourvoi n° 07-12.449, Bull. 2008, n° 3).\n7. La cour d'appel a énoncé à bon droit que, si l'acquéreur n'est pas partie au contrat\nde mandat, il est susceptible d'engager sa responsabilité délictuelle à l'égard de l'agent\nimmobilier, lorsque, par son comportement fautif, il lui a fait perdre sa commission\net que tel est le cas lorsque l'absence de droit à rémunération de l'agent immobilier\nprocède de manoeuvres frauduleuses.\n8. Elle a constaté, non seulement que les acquéreurs avaient connaissance du droit à\nrémunération de l'agent immobilier qui leur avait fait visiter le bien, mais aussi que\nla promesse de vente signée, à l'insu de l'agent immobilier, seulement cinq semaines\naprès la visite, comportait une clause stipulant que l'acquéreur s'engageait « à prendre\nen charge la totalité des éventuelles poursuites qui pourraient être formulées par les\nagences immobilières qu'il aurait contactées pour la présentation de ce bien ».\n9. Elle a relevé, en outre, que l'acte authentique de vente n'évoquait pas l'entremise\nde l'agent immobilier et ne reproduisait pas ladite clause.\n10. Elle a pu en déduire que, le comportement d'ensemble des acquéreurs, éclairé par\nles termes mêmes de la clause stipulée à la promesse de vente, traduisant une volonté\nd'agir en fraude aux droits de l'agent immobilier, les premiers avaient engagé leur\nresponsabilité délictuelle à l'égard du second.\n11. Elle a ainsi légalement justifié sa décision."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 49,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Première chambre civile",
+    "date": "2026-05-20",
+    "case_number": "24-22.299",
+    "president": "Mme Champalaune"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Lyon, 16 octobre 2024), M. [N] et Mme [A] se sont mariés le\n23 septembre 2017 à [Localité 1], au Togo.\n2. Le 26 juin 2023, M. [N] a assigné Mme [A] en nullité du mariage pour erreur sur\nles qualités essentielles de son épouse.",
+    "claims": "Examen du moyen\nSur le moyen, pris en sa première branche\n3. En application de l'article 1014, alinéa 2, du code de procédure civile, il n'y a pas\nlieu de statuer par une décision spécialement motivée sur ce grief qui n'est manifestement pas de nature à entraîner la cassation.\nSur le moyen, pris en sa deuxième branche\nEnoncé du moyen\n4. M. [N] fait grief à l'arrêt de dire que sa demande en nullité de mariage était prescrite, alors « que l'action en annulation de mariage se trouve nécessairement suspendue le temps de l'instance pénale qui se déroule parallèlement ; que dans ses écritures\nd'appel, M. [N] faisait valoir que la cause de nullité du mariage ne s'est trouvée révélée\nque par le jugement du tribunal correctionnel de Lyon du 10 mai 2023, condamnant\nMme [A] pour faits de violence commis à l'encontre de son époux, de sorte que le\ndélai pour agir en annulation du mariage devait courir à compter de cette date ; qu'en\nconsidérant néanmoins que le délai de la prescription quinquennale avait couru à la\ndate du mariage, soit à compter du 23 septembre 2017, de sorte que l'action en annulation du mariage engagée le 26 juin 2023 était prescrite, la cour d'appel a méconnu\nle principe susvisé et a violé l'article 181 du code civil. »\n\nArrêts des chambres et ordonnances du Premier Président"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 181 du code civil"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi."
+    ],
+    "reasoning": "Réponse de la Cour\n5. Selon l'article 181 du code civil, la demande en nullité du mariage pour vice du\nconsentement n'est plus recevable à l'issue d'un délai de cinq ans à compter du mariage.\n6. Il en résulte que s'il y a eu erreur sur les qualités essentielles de la personne, la date\nà laquelle l'époux a reconnu l'erreur est sans incidence sur le point de départ du délai\nde prescription.\n7. Ayant relevé que le mariage de M. [N] et Mme [A] avait été célébré le 23 septembre 2017 et que l'assignation en nullité datait du 26 juin 2023, la cour d'appel en a\nexactement déduit que l'action en nullité du mariage engagée par l'époux pour erreur\nsur les qualités essentielles de la personne de son épouse était prescrite, peu important\nque l'époux fasse valoir devant elle que la cause de nullité du mariage ne s'était trouvée révélée que par le jugement pénal condamnant l'épouse pour des faits de violence\ncommis à son encontre.\n8. Le moyen n'est donc pas fondé."
+  },
+  "prediction": {
+    "model": "A · spaCy + TF-IDF + régression logistique",
+    "verdict": "Rejet",
+    "confidence": 0.9526,
+    "probabilities": {
+      "Rejet": 0.9526,
+      "Cassation": 0.0404,
+      "Irrecevabilité": 0.0004,
+      "Autre": 0.0066
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 51,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Première chambre civile",
+    "date": "2026-05-28",
+    "case_number": "24-10.385",
+    "president": "Mme Champalaune"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Montpellier, 26 octobre 2023), la société Agassacs VF (Agassacs) a commandé auprès de la société Software Engineering Schaltanlagen GmbH\n(SES) la construction d'une installation de production d'énergie photovoltaïque intégrée en toiture d'un bâtiment agricole appartenant à la société des Quatre Vents en\n2011.\n2. Invoquant des dysfonctionnements, la société Agassacs et la société des Quatre Vents\nont assigné la société Axa France IARD (Axa), assureur responsabilité de la société\nSES, et la caisse régionale d'assurances mutuelles agricoles d'Oc - Groupama d'Oc devant le juge des référés d'un tribunal de commerce pour voir ordonner une expertise\njudiciaire sur le fondement de l'article 145 du code de procédure civile.\n3. La société Axa a saisi le même tribunal aux fins de voir étendre et déclarer commune cette mesure qu'il avait ordonnée le 19 octobre 2021, à la société Solar-Fabrik\nAktiengesellschaft für Produktion und Vertrieb von Solartechnischen Produkten (Solar-Fabrik), et ses assureurs successifs, Chubb European Group SE (Chubb) et AIG\nEurope SA (AIG), la société Günther Spelsberg GmbH & Co. KG (Spelsberg) et la\nsociété Lumberg Connect GmbH (Lumberg).",
+    "claims": "Examen des moyens\nSur le moyen du pourvoi principal, pris en ses première à quatrième\nbranches et sixième branche, et le moyen du pourvoi incident\n4. En application de l'article 1014, alinéa 2, du code de procédure civile, il n'y a pas\nlieu de statuer par une décision spécialement motivée sur ces moyens qui ne sont manifestement pas de nature à entraîner la cassation.\n\nArrêts des chambres et ordonnances du Premier Président\nSur le moyen du pourvoi principal, pris en sa cinquième branche\nÉnoncé du moyen\n5. La société Chubb fait grief à l'arrêt d'écarter les fins de non-recevoir opposées par\ncette dernière ainsi que le moyen tiré de l'absence d'application ratione temporis de la\npolice d'assurance souscrite par la société Solar-Fabrik, de déclarer commune à la société Chubb l'ordonnance rendue par le juge des référés du tribunal de commerce de\nRodez en date du 19 octobre 2021, de dire en conséquence que les opérations d'expertise de M. [Q] [J] seront opposables à la société Chubb et se dérouleront contradictoirement à leur égard, et d'ordonner l'extension de la mission de l'expert dans les\ntermes décrits au dispositif de l'ordonnance de référé du tribunal de commerce de\nRodez du 15 novembre 2022, alors « que le juge ne peut ordonner une expertise sur\nle fondement de l'article 145 du code de procédure civile en présence d'une demande\nmanifestement vouée à l'échec, car il en résulte alors un défaut de motif légitime ; que\nselon l'article 1346 du code civil, l'assureur n'est subrogé dans les droits d'une victime\nqu'à condition d'avoir procédé à un paiement au bénéfice de celle-ci ; qu'en jugeant\nque l'action subrogatoire de la société Axa France IARD n'était pas manifestement\nvouée à l'échec, alors même qu'elle n'avait effectué aucun paiement au bénéfice de la\nsociété Agassacs, victime du dommage, la cour d'appel a violé l'article 145 du code de\nprocédure civile, ensemble l'article 1346 du code civil. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 145 du code de procédure civile",
+      "article 1346 du code civil"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE les pourvois."
+    ],
+    "reasoning": "Réponse de la Cour\n6. Il résulte de l'article 145 du code de procédure civile que le demandeur n'ayant\npas à établir le bien-fondé de l'action en vue de laquelle la mesure d'instruction est\ndemandée, il n'est pas tenu à ce stade de justifier de l'indemnisation de la victime pour\nla solliciter, quand bien même il sollicite cette mesure dans la perspective éventuelle\nd'agir en qualité de subrogé dans les droits de celle-ci.\n7. Ayant énoncé que si l'action subrogatoire suppose l'indemnisation préalable par\nl'assureur de la victime du dommage, la société Axa agissait uniquement aux fins de\nsolliciter l'extension des opérations d'expertise destinées à rechercher notamment les\ncauses des désordres et à chiffrer les divers préjudices résultant de ceux-ci, et qu'il lui\nsuffisait de justifier de l'existence d'un litige potentiel futur susceptible d'opposer les\nparties, que l'indemnisation de la victime par l'assureur n'était susceptible d'intervenir\nqu'à l'issue des opérations d'expertise qui permettraient de déterminer les responsabilités encourues et le montant des dommages à réparer, et voire même postérieurement\nà l'action au fond susceptible d'être intentée par les sociétés victimes Agassacs et des\nQuatre Vents à l'encontre de la société SES et de la société Axa, la cour d'appel en a\nexactement déduit que l'absence de paiement par la société Axa à la société Agassacs,\nvictime du dommage, n'était pas de nature à faire obstacle au bénéfice de cette mesure et décidé dans l'exercice de son pouvoir souverain d'appréciation que son action\nfuture subrogatoire n'était pas manifestement vouée à l'échec.\n8. Le moyen n'est donc pas fondé."
+  }
+}

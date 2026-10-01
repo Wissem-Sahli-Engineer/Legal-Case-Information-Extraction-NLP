@@ -1,0 +1,11 @@
+chamber,accuracy,nb
+Autre,0.5,2
+Assemblée plénière,0.8888888888888888,9
+Chambre criminelle,0.9713345864661654,2128
+Chambre sociale,0.9768899334116725,2553
+Première chambre civile,0.9788617886178862,1230
+Chambre commerciale financière et économique,0.980849292256453,1201
+Deuxième chambre civile,0.9830633284241531,1358
+Troisième chambre civile,0.9880624426078971,1089
+Première présidence (Ordonnance),0.9883449883449883,429
+Chambre mixte,1.0,1

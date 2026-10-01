@@ -1,0 +1,45 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 1,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre commerciale financière et économique",
+    "date": "2026-05-13",
+    "case_number": "24-20.159",
+    "president": "M. Vigneau"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Montpellier, 23 juillet 2024), le 10 février 2020, la société\nDomaines Bonfils a signé avec la société Agence Champs Elysées (la société ACE), représentée par son gérant, M. [D], laquelle exerce l'activité d'agent commercial, un protocole transactionnel mettant fin au contrat verbal d'agence commerciale qui les liait.\n2. Le 8 juillet 2021, la société ACE a assigné la société Domaines Bonfils en nullité du\nprotocole d'accord pour violence et paiement des commissions restant dues au titre\ndes opérations conclues jusqu'au 31 décembre 2019 et d'un complément d'indemnité\nde rupture.\n3. Le 26 août 2024, la société ACE a été mise en liquidation judiciaire, la société [Z]\n[Q], prise en la personne de M. [Q], étant désignée en qualité de liquidateur.",
+    "claims": "Examen des moyens\nSur le premier moyen, pris en sa troisième branche,\net les deuxième et troisième moyens\n4. En application de l'article 1014, alinéa 2, du code de procédure civile, il n'y a pas\nlieu de statuer par une décision spécialement motivée sur ces griefs qui ne sont manifestement pas de nature à entraîner la cassation.\nSur le premier moyen, pris en ses première et deuxième branches\nEnoncé du moyen\n5. La société ACE et son liquidateur font grief à l'arrêt de dire que le consentement\nde la société ACE n'avait pas été vicié lors de la signature de l'accord transactionnel\n\nArrêts des chambres et ordonnances du Premier Président\ndestiné à mettre fin au litige avec la société Domaines Bonfils concernant la rupture\ndu contrat d'agent commercial, alors :\n« 1°/ que, dans les matières d'ordre public, les parties ne peuvent transiger que sur les\ndroits acquis dont elles connaissent la valeur ; que les dispositions relatives au droit à\nindemnité compensatrice en réparation du préjudice subi par l'agent commercial du\nfait de la cessation de ses relations avec son mandant sont d'ordre public ; que, dès lors,\nen se bornant à énoncer, pour rejeter la demande de nullité du protocole d'accord\ntransactionnel du 10 février 2010, qu'aucun vice du consentement ne pouvait être\nretenu, sans rechercher si le fait, invoqué expressément par la société ACE à l'appui de\nsa demande de nullité, que M. [D] ait signé cet accord alors qu'il ne connaissait pas\nle chiffre d'affaires réalisé par la société Domaines Bonfils grâce à ses interventions\nsur l'année 2019, information dont dépendait pourtant le montant de l'indemnité\nà laquelle il pouvait prétendre et que la société Domaines Bonfils était tenue de lui\ncommuniquer en application de l'article R. 134-3 du code de commerce, n'était pas\nde nature à exclure que la société ACE ait pu renoncer en connaissance de cause à\nce droit et, partant à justifier la demande de nullité de la transaction, la cour d'appel\na privé sa décision de base légale au regard des articles 6, 1162 et 2044 du code civil ;\n2°/ qu'est nulle la transaction qui a été conclue alors que le consentement de l'une\ndes parties n'a été obtenu qu'en raison d'une réticence dolosive de l'autre ; que dès\nlors en se bornant à énoncer, pour rejeter la demande de nullité du protocole d'accord\ntransactionnel du 10 février 2010, qu'aucun dol ne pouvait être retenu, sans rechercher\nsi le fait que la société Domaines Bonfils ait refusé de communiquer à la société ACE\nle chiffre d'affaires réalisé grâce à ses interventions sur l'année 2019, information dont\ndépendait pourtant le montant de l'indemnité à laquelle elle pouvait prétendre, et que\nla société Domaines Bonfils, qui était légalement tenue de le lui communiquer, n'avait\nfinalement fournie qu'après y avoir été obligée en cause d'appel, ne caractérisait pas\nune réticence dolosive destinée à induire la société ACE à accepter une indemnité\nbeaucoup plus faible que [celle] qu'elle était en droit d'obtenir, la cour d'appel a privé\nsa décision de base légale au regard de l'article 1132 du code civil. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article r. 134-3 du code de commerce",
+      "article 6, 1162 et 2044 du code civil",
+      "article 1132 du code civil"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi."
+    ],
+    "reasoning": "Réponse de la Cour\n6. D'une part, s'il est interdit de renoncer, par avance, aux règles de protection établies\npar une loi d'ordre public, il est en revanche permis de renoncer aux effets acquis de\ntelles règles (1re Civ., 17 mars 1998, pourvoi n° 96-13.972, Bull. 1998, I, n° 120).\n7. Aucun principe n'exige que les parties à une transaction, fût-ce dans un domaine\nsoumis à une loi d'ordre public, connaissent précisément à l'avance les sommes susceptibles de leur être versées.\n8. Le moyen qui, pris en sa première branche, postule le contraire n'est pas fondé.\n9. D'autre part, la cour d'appel, qui n'était pas tenue de procéder à la recherche visée\nà la seconde branche du moyen, qui ne lui était pas demandée, n'encourt pas le grief\ndu moyen."
+  },
+  "prediction": {
+    "model": "A · spaCy + TF-IDF + régression logistique",
+    "verdict": "Rejet",
+    "confidence": 0.9934,
+    "probabilities": {
+      "Rejet": 0.9934,
+      "Cassation": 0.0043,
+      "Irrecevabilité": 0.0006,
+      "Autre": 0.0017
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 8,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Deuxième chambre civile",
+    "date": "2026-05-28",
+    "case_number": "24-19.146",
+    "president": "Mme Martinel"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Amiens, 18 juin 2024), la société Distribution chauffage sanitaire (la société DSC) a, suivant contrat du 28 janvier 2019, confié à la société Tango\nl'organisation de séminaires professionnels en Chine.\n2. Le 19 novembre 2019, la société Tango a souscrit auprès de la société Aréas dommages (l'assureur), « pour le compte de son client », une police d'assurance « Risques\nd'opération » couvrant les pertes financières liées à l'annulation de voyages.\n3. Les séminaires en Chine ont été annulés par la société DSC en raison de l'épidémie\nde Covid-19.\n4. L'assureur ayant dénié sa garantie, les sociétés DSC et Tango l'ont assigné en indemnisation.\n5. L'assureur a soulevé une fin de non-recevoir tirée du défaut de qualité à agir de la\nsociété Tango.\nRecevabilité du pourvoi contestée par la défense\n6. L'assureur soutient que le pourvoi est irrecevable au motif que l'arrêt déféré à la\nCour n'a pas mis fin à l'instance.\n7. L'article 607 du code de procédure civile prévoit que peuvent être frappés de\npourvoi en cassation, les jugements en dernier ressort qui, statuant sur une exception\nde procédure, une fin de non-recevoir ou tout autre incident, mettent fin à l'instance.\nAux termes de l'article 608 de ce code, hors les cas spécifiés par la loi, les autres jugements en dernier ressort ne peuvent être frappés de pourvoi en cassation indépendamment des jugements sur le fond.\n8. L'arrêt déféré à la Cour, s'il n'a pas mis fin à l'instance entre la société DSC et l'assureur, a mis fin à l'instance opposant la société Tango à l'assureur.\n9. Le pourvoi est, dès lors, recevable.\n\nArrêts des chambres et ordonnances du Premier Président",
+    "claims": "Examen du moyen\nEnoncé du moyen\n10. La société Tango fait grief à l'arrêt de déclarer irrecevables les demandes telles que\nformulées dans l'acte d'assignation du 19 août 2020, formées par elle à l'encontre de\nl'assureur pour défaut de qualité à agir, alors :\n« 1°/ que l'action est ouverte à tous ceux qui ont un intérêt légitime au succès ou au\nrejet d'une prétention ; que la qualité pour agir n'est pas subordonnée à la démonstration préalable du bien-fondé de l'action et que l'existence du droit invoqué n'est\npas une condition de recevabilité de l'action, mais de son succès ; que, pour déclarer irrecevables les demandes formées par la société Tango contre l'assureur, la cour\nd'appel a, reprenant à son compte les motifs de l'ordonnance du juge de la mise en\nétat, énoncé que les conditions particulières de la police « mentionnaient en qualité\nde souscripteur « Tango Voyages pour le compte de son client DSC » », ce dont le\njuge de la mise en état « a justement déduit que la société Tango n'avait conclu le\ncontrat d'assurance qu'en qualité de mandataire de la société DSC, seule bénéficiaire\ndu contrat, et qu'elle n'avait donc pas qualité à agir en paiement de l'indemnité d'assurance », ce que corroborait l'article 11.1 du contrat de voyage ; qu'elle a ajouté que,\ns'agissant d'une assurance pour compte, son souscripteur « ne peut, en l'absence de la\nconvention l'y autorisant expressément, obtenir le paiement de l'indemnité à son profit » et que, faute de « stipulation autorisant expressément la société Tango à solliciter\nl'indemnité d'assurance à son profit », elle « n'aurait pas qualité à agir en paiement de\nl'indemnité » ; qu'en statuant ainsi, la cour d'appel, qui s'est prononcée sur l'existence\nmême de la créance indemnitaire invoquée par la société Tango à l'encontre de l'assureur, la société Aréas dommages, l'existence de cette créance n'étant pas une condition\nde recevabilité de son action mais de son succès, la cour d'appel a violé l'article 31 du\ncode de procédure civile ;\n2°/ que l'action est ouverte à tous ceux qui ont un intérêt légitime au succès ou au\nrejet d'une prétention, sous réserve des cas dans lesquels la loi attribue le droit d'agir\naux seules personnes qu'elle qualifie pour élever ou combattre une prétention, ou\npour défendre un intérêt déterminé ; que le souscripteur d'une police d'assurance a\nnécessairement intérêt à agir contre l'assureur, cet intérêt à agir, faute d'action attitrée,\nse confondant avec sa qualité à agir ; qu'en statuant comme elle a fait, après avoir relevé que la société Tango avait souscrit le contrat d'assurance litigieux, ce dont il se\ndéduisait qu'elle avait intérêt à agir contre l'assureur, et, partant, qualité à agir contre ce\ndernier, la cour d'appel, qui n'a pas tiré les conséquences légales de ses constatations, a\nviolé l'article 31 du code de procédure civile. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 607 du code de procédure civile",
+      "article 31 du code de procédure civile"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi."
+    ],
+    "reasoning": "Réponse de la Cour\n11. Le souscripteur d'une assurance pour compte qui stipule que l'assuré est le seul\nbénéficiaire de l'indemnité d'assurance n'a pas qualité à agir en paiement de cette\nindemnité à son profit.\n12. L'arrêt retient que, dans l'hypothèse où le contrat d'assurance serait qualifié d'assurance pour compte, si le souscripteur d'une assurance pour compte a qualité pour\ndemander l'exécution de la garantie au profit de l'assuré qui a subi le dommage à la\nsuite du risque assuré, il ne peut, en l'absence de convention l'y autorisant expressément, obtenir le paiement de l'indemnité à son profit. Il ajoute qu'il n'est pas allégué\n\nArrêts des chambres et ordonnances du Premier Président\nde stipulation autorisant expressément la société Tango à solliciter l'indemnité d'assurance à son profit.\n13. Ayant ainsi relevé qu'aucune stipulation n'autorisait la société Tango, en sa qualité\nde souscriptrice, à réclamer le paiement de l'indemnité d'assurance à son profit, la cour\nd'appel a, sans statuer sur leur bien-fondé, exactement décidé que les demandes de\ncette société étaient irrecevables.\n14. Le moyen n'est, dès lors, pas fondé."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 44,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre commerciale financière et économique",
+    "date": "2026-05-28",
+    "case_number": "25-11.352",
+    "president": "M. Ponsot"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'ordonnance attaquée, rendue par le premier président d'une cour d'appel\n(Grenoble, 24 janvier 2025), par deux ordonnances en date des 24 mai 2024 et 4 juin\n2024, des juges des libertés et de la détention ont autorisé, sur le fondement de l'article L. 16 B du livre des procédures fiscales, la direction nationale d'enquêtes fiscales\nà procéder à des opérations de visite et de saisie dans plusieurs lieux susceptibles d'être\noccupés par la société Faccino, de droit luxembourgeois, présumée exercer une activité de prise de participations ainsi que l'administration, la gestion, le contrôle et le\ndéveloppement de ces participations, de gestion de valeurs mobilières de placement\n\nArrêts des chambres et ordonnances du Premier Président\net de financement depuis le territoire national, sans souscrire les déclarations fiscales\ny afférentes, et ainsi omettre ou avoir omis de passer les écritures comptables correspondantes.\n2. Le 21 juin 2024, après réalisation des opérations de visite et de saisie, M. [A] et\nMme [L] [Q], Mme [E] [Q], M. [H] [Q], la société Faccino et la société Faccino III\nont relevé appel des ordonnances des juges des libertés et de la détention ayant autorisé les opérations de visite et de saisie et ont formé un recours contre leur déroulement.",
+    "claims": "Examen des moyens\nSur le premier moyen, sur le deuxième moyen et sur\nle troisième moyen, pris en sa première branche\n3. En application de l'article 1014, alinéa 2, du code de procédure civile, il n'y a pas\nlieu de statuer par une décision spécialement motivée sur ces griefs qui ne sont manifestement pas de nature à entraîner la cassation.\nSur le troisième moyen, pris en sa seconde branche\nEnoncé du moyen\n4. La société Faccino, la société Faccino III, M. [H] [Q], Mme [E] [Q], M. [A] [Q]\net Mme [L] [M] font grief à l'ordonnance de déclarer leurs recours non fondés et\nde confirmer les ordonnances rendues le 4 juin 2024 par le juge des libertés et de la\ndétention du tribunal judiciaire de Valence et le 24 mai 2024 par le juge des libertés\net de la détention du tribunal judiciaire de Grenoble, alors « qu'une copie intégrale\nde l'ordonnance autorisant les opérations de visites et saisies doit être notifiée à l'occupant des lieux ou à son représentant au moment de la visite, cette copie intégrale\ncomprenant l'ordonnance elle-même et la requête ; qu'en refusant de faire droit au\nmoyen de nullité des appelants tiré de l'absence de notification de la requête, au motif\nque la procédure de visite domiciliaire serait « régie par une législation spéciale », le\npremier président de la cour d'appel a violé l'article L. 16 B du livre des procédures\nfiscales et l'article 495 du code de procédure civile, ensemble l'article 6 de la Convention européenne des droits de l'homme. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 495 du code de procédure civile",
+      "article 6 de la convention européenne des droits de l'homme"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi."
+    ],
+    "reasoning": "Réponse de la Cour\n5. L'ordonnance énonce à bon droit et sans méconnaître les dispositions conventionnelles invoquées par le pourvoi que la procédure de visite et de saisie est régie par\nles dispositions spéciales de l'article L. 16 B du livre des procédures fiscales, lesquelles\nprévoient la seule notification de l'ordonnance à l'occupant ou à son représentant, et\nnon celle de la demande d'autorisation et des pièces qui y sont jointes.\n6. Le moyen n'est donc pas fondé."
+  }
+}

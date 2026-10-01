@@ -1,0 +1,6 @@
+{
+  "A0 · TF-IDF + Naive Bayes": 0.8902818910393643,
+  "A · TF-IDF + Régression logistique": 0.9624698312876283,
+  "B · CNN Keras (de zéro)": 0.9615918474592204,
+  "C · CamemBERT (fine-tuné)": 0.9594729335254777
+}

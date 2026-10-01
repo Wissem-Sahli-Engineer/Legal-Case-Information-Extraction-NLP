@@ -1,0 +1,44 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 93,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre sociale",
+    "date": "2026-05-06",
+    "case_number": "24-21.493",
+    "president": "M. Flores"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Paris, 18 septembre 2024), M. [S] a été engagé en qualité de\njournaliste reporter par la société Europe news, à compter du 18 mai 2009. Il exerçait\nen dernier lieu les fonctions de chef de services société et culture de la station de radio\nEurope 1 depuis le 1er janvier 2021.\n2. La relation de travail était régie par la convention collective nationale des journalistes du 1er novembre 1976, refondue le 27 octobre 1987.\n3. Le salarié a pris acte de la rupture du contrat de travail le 28 juillet 2021.\n4. Le salarié a saisi la juridiction prud'homale, le 30 septembre 2021, de demandes\nrelatives à l'exécution et à la rupture de son contrat de travail.",
+    "claims": "Examen des moyens\nSur le premier moyen\n5. En application de l'article 1014, alinéa 2, du code de procédure civile, il n'y a pas\nlieu de statuer par une décision spécialement motivée sur ce moyen qui n'est manifestement pas de nature à entraîner la cassation.\n\nArrêts des chambres et ordonnances du Premier Président\nSur le second moyen\nEnoncé du moyen\n6. L'employeur fait grief à l'arrêt de le condamner à payer au salarié une certaine\nsomme à titre d'indemnité de licenciement, alors :\n« 1°/ que l'indemnité de licenciement est calculée pour les journalistes professionnels\nsur le dernier salaire perçu ; que l'indemnité compensatrice de récupération n'a pas le\ncaractère de ‘'salaire'' et ne peut en conséquence être incluse dans le calcul du salaire de\nréférence pour déterminer le montant de l'indemnité de licenciement ; qu'en retenant\nque l'indemnité compensatrice de récupération apparaissant sur le dernier bulletin de\nsalaire de M. [S] constitue un élément de salaire devant être inclus dans l'assiette de\ncalcul de l'indemnité de licenciement, la cour d'appel a violé les articles L. 7112-3 du\ncode du travail et 44 de la convention collective nationale des journalistes ;\n2°/ que seuls les éléments constitutifs du salaire correspondant à la période de référence peuvent être pris en considération dans le calcul de l'indemnité de licenciement ; qu'en prenant en considération l'indemnité de récupération de 9 589,25 euros\nmentionnée sur le dernier bulletin de paie, établi à titre de solde de tout compte sans\nconstater que celle-ci était due pour le seul dernier mois travaillé, la cour d'appel a\nprivé sa décision de base légale au regard des articles L. 7112-3 du code du travail et\n44 de la convention collective nationale des journalistes. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article l. 7112-3 du code du travail"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi.",
+      "Arrêts des chambres et ordonnances du Premier Président"
+    ],
+    "reasoning": "Réponse de la Cour\n7. Aux termes de l'article L. 7112-3 du code du travail, si l'employeur est à l'initiative\nde la rupture, le salarié a droit à une indemnité qui ne peut être inférieure à la somme\nreprésentant un mois, par année ou fraction d'année de collaboration, des derniers\nappointements.\nLe maximum des mensualités est fixé à quinze.\n8. Selon l'article 44 de la convention collective nationale des journalistes du 1er novembre 1976, refondue le 27 octobre 1987, l'indemnité de licenciement sera calculée\npour les journalistes professionnels employés à plein temps ou temps partiel sur le\ndernier salaire perçu.\n9. La cour d'appel, qui a relevé que l'indemnité de récupération, qui apparaissait sur\nle dernier bulletin de salaire du salarié du mois de juillet 2021, était calculée en application du protocole d'accord sur l'aménagement et la réduction du temps de travail\ndu 22 décembre 2000 des sociétés Europe 1 télécompagnie, Europe news et Europe\ncommunication services, lequel prévoyait en son article 8 que lorsqu'un salarié était\nen astreinte et effectuait une ou plusieurs interventions, il bénéficiait à titre de compensation globale et forfaitaire d'heures de récupération, en a exactement déduit que\ncette indemnité constituait un élément de salaire.\n10. Elle a retenu à bon droit, sans être tenue de procéder à la recherche invoquée par\nle moyen pris en sa seconde branche qui ne lui était pas demandée, que cette indemnité devait être incluse dans l'assiette de calcul de l'indemnité de licenciement.\n11. Le moyen n'est donc pas fondé."
+  },
+  "prediction": {
+    "model": "A · spaCy + TF-IDF + régression logistique",
+    "verdict": "Rejet",
+    "confidence": 0.9819,
+    "probabilities": {
+      "Rejet": 0.9819,
+      "Cassation": 0.0169,
+      "Irrecevabilité": 0.0003,
+      "Autre": 0.0009
+    }
+  }
+}

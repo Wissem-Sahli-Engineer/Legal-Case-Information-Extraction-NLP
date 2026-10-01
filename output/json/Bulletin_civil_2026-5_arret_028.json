@@ -1,0 +1,34 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 28,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Deuxième chambre civile",
+    "date": "2026-05-21",
+    "case_number": "23-19.867",
+    "president": "Mme Martinel"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon le jugement attaqué (tribunal judiciaire de Bobigny, 17 mai 2023), rendu en\ndernier ressort, Mme [Q] a assigné la société Garage de l'Europe (la société) au titre\nde l'inexécution de travaux de réparation sur son véhicule automobile.\n2. Après plusieurs renvois, l'affaire a été retenue à l'audience du 15 mars 2023.",
+    "claims": "Examen du moyen\nSur le premier moyen, pris en sa première branche\nEnoncé du moyen\n3. La société fait grief au jugement, qualifié de « réputé contradictoire », de la condamner à verser à Mme [Q] une somme de 3 000 euros « à titre principal » et une somme\nde 1 500 euros « à titre de dommages et intérêts », alors « que dans une procédure\norale, lorsque le défendeur ne comparaît pas à l'audience après avoir formulé une demande de renvoi en exposant les raisons pour lesquelles il lui était impossible de s'y\nrendre, le juge ne peut statuer au fond par une décision réputée contradictoire qu'à la\ncondition de s'expliquer sur cette demande de renvoi et sur les justifications données\npar le défendeur à son absence ; qu'au cas d'espèce, ayant constaté que la veille de l'audience, soit le 14 mars 2023, la gérante de la société avait demandé un renvoi lié à son\nimpossibilité de se rendre à l'audience en raison d'une grève du réseau de transports\n\nArrêts des chambres et ordonnances du Premier Président\nen commun, en statuant au fond par jugement réputé contradictoire sans s'expliquer\nsur la légitimité de l'absence du défendeur, le juge du fond a violé les articles 16, 472\net 473 du code de procédure civile, ensemble l'article 6, § 1, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 16, 472\net 473 du code de procédure civile",
+      "article 472 du code de procédure civile"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation",
+    "orders": [
+      "CASSE ET ANNULE, en toutes ses dispositions, le jugement rendu le 17 mai 2023, entre les parties, par le tribunal judiciaire de Bobigny",
+      "Remet l'affaire et les parties dans l'état où elles se trouvaient avant ce jugement et les renvoie devant le tribunal judiciaire de Bobigny autrement composé."
+    ],
+    "reasoning": "Réponse de la Cour\nVu les articles 6, § 1, de la Convention de sauvegarde des droits de l'homme et des\nlibertés fondamentales, 14, 16 et 472 du code de procédure civile :\n4. Le droit à un procès équitable exige que soit donné à chacun l'accès au juge chargé\nde statuer sur sa demande.\n5. Pour statuer au fond en application de l'article 472 du code de procédure civile, le\njugement énonce que, le 14 mars 2023, la gérante de la société a demandé un nouveau report d'audience en raison d'une grève, prévue le lendemain, sur le réseau de\ntransports en commun mais qu'au jour de l'audience la société n'a pas comparu ni\npersonne pour elle.\n6. En se déterminant ainsi, sans rechercher si la grève sur le réseau de transports en\ncommun dont faisait état la gérante n'avait pas constitué une circonstance exceptionnelle de sorte que l'absence de renvoi avait eu pour conséquence, s'agissant d'une procédure orale, de priver la société de toute possibilité de faire valoir son droit en justice,\nle tribunal n'a pas donné de base légale à sa décision."
+  }
+}

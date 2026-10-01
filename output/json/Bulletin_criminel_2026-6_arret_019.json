@@ -1,0 +1,34 @@
+{
+  "source_file": "Bulletin_criminel_2026-6.pdf",
+  "decision_index": 19,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre criminelle",
+    "date": "2026-06-10",
+    "case_number": "25-85.099",
+    "president": "M. Bonnal"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Il résulte de l'arrêt attaqué et des pièces soumises à l'examen de la Cour de cassation\nce qui suit.\n2. Par jugement du 14 mars 2025, le tribunal correctionnel a déclaré M. [X] [V] coupable de vols avec violences ayant entraîné une incapacité totale de travail supérieure\nà huit jours, l'a condamné à cinq ans d'emprisonnement, l'interdiction définitive de\ndétenir ou porter une arme soumise à autorisation, et a statué sur les intérêts civils.\n3. Le prévenu et le ministère public ont relevé appel.",
+    "claims": "Examen des moyens\nSur le premier moyen\n4. Il n'est pas de nature à permettre l'admission du pourvoi au sens de l'article 5671-1 du code de procédure pénale.\nSur le second moyen\nEnoncé du moyen\n5. Le moyen critique l'arrêt attaqué en ce qu'il a condamné M. [V] à une peine de\nsix ans d'emprisonnement délictuel, alors « que le juge qui prononce, en matière correctionnelle, une peine d'emprisonnement ferme doit, quels que soient le quantum\net la décision prise quant à son éventuel aménagement, motiver ce choix en faisant\napparaître qu'il a tenu compte des faits de l'espèce, de la personnalité de leur auteur,\nainsi que de sa situation matérielle, familiale et sociale ; qu'il lui appartient d'établir,\nau regard de ces éléments, que la gravité de l'infraction et la personnalité de son auteur rendent cette peine indispensable et que toute autre sanction est manifestement\ninadéquate ; qu'en l'espèce, la cour d'appel, a prononcé une peine de six ans d'emprisonnement ferme, sans constater qu'un emprisonnement ferme apparaît indispensable\net que toute autre sanction est manifestement inadéquate ; que ce faisant, elle a violé\nles articles 130-1, 132-1, 132-19 et 132-25 du code pénal, 464-2, 591 à 593 du code\nde procédure pénale. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 5671-1 du code de procédure pénale",
+      "article 130-1, 132-1, 132-19 et 132-25 du code pénal",
+      "article 132-19 du code pénal"
+    ],
+    "previous_decision": {
+      "court": "Cour d'appel de Versailles",
+      "date": "2025-07-02"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi."
+    ],
+    "reasoning": "Réponse de la Cour\n6. Selon l'article 132-19, alinéa 2, du code pénal, toute peine d'emprisonnement sans\nsursis ne peut être prononcée qu'en dernier recours si la gravité de l'infraction et la\npersonnalité de son auteur rendent cette peine indispensable et si toute autre sanction\nest manifestement inadéquate.\n7. En application de ce texte, la motivation des juges doit établir le caractère indispensable de la peine d'emprisonnement ferme et l'inadéquation de toute autre sanction,\nquand bien même elle n'emploierait pas, pour ce faire, les termes de la loi.\n8. Pour condamner le prévenu à six ans d'emprisonnement, l'arrêt attaqué énonce que,\ncompte tenu de la gravité des faits et de sa personnalité, M. [V] ayant été condamné à\ndix reprises sans pour autant avoir tenu compte des décisions de justice prononcées et\nmis un terme à sa délinquance, il est justifié de le condamner, à titre principal, à une\npeine dissuasive d'emprisonnement ferme, le prononcé d'une peine mixte, compor-\n\ntant un sursis probatoire, n'apparaissant pas utile au vu de la personnalité du prévenu,\nsans domicile fixe et peu susceptible de répondre aux convocations.\n9. Les juges ajoutent qu'à la date des faits reprochés, le prévenu n'était plus accessible\nau sursis simple et que son casier judiciaire fait apparaître des peines d'emprisonnement ferme non exécutées susceptibles d'être portées à l'écrou.\n10. Ils relèvent encore que le risque de récidive est élevé, l'intéressé ayant fait état\nd'une dette à rembourser.\n11. En l'état de ces énonciations, qui satisfont aux exigences de l'article 132-19 du\ncode pénal, la cour d'appel a justifié sa décision.\n12. Dès lors, le moyen doit être écarté.\n13. Par ailleurs, l'arrêt est régulier en la forme."
+  }
+}

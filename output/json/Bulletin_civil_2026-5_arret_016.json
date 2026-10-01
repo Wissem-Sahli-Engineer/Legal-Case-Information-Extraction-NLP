@@ -1,0 +1,33 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 16,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Deuxième chambre civile",
+    "date": "2026-05-21",
+    "case_number": "24-21.854",
+    "president": "Mme Martinel"
+  },
+  "narrative": {
+    "facts": "",
+    "claims": "Examen du moyen\nÉnoncé du moyen\n5. M. [V] fait grief à l'arrêt de rejeter son exception de procédure, alors « que sont\napplicables en Nouvelle-Calédonie les dispositions de l'article 1037-1 du code de\nprocédure civile relatives aux conditions de saisine de la cour de renvoi dans les affaires\nrelevant de la procédure ordinaire ; qu'il s'ensuit que la déclaration de saisine encourt\nla caducité dès lors qu'elle n'a pas été signifiée aux parties adverses dans les dix jours\nde la notification par le greffe de l'avis de fixation ; que pour écarter toute caducité\ndes déclarations de saisine pour non-respect de l'article 1037-1 précité, la cour d'ap-\n\nArrêts des chambres et ordonnances du Premier Président\npel, quoique constatant que la Selarl Gastaud n'avait pas fait signifier les déclarations\nde saisine de la cour de renvoi dans les dix jours de l'avis de fixation, énonce que ces\ndispositions ne sont pas applicables en Nouvelle-Calédonie ; qu'en statuant de la sorte,\nla cour d'appel a violé, par refus d'application, l'article 1037-1 du code de procédure\ncivile. »\nRéponse de la Cour\n6. Il convient de s'interroger sur la question de savoir si la cour d'appel, saisie sur\nrenvoi après cassation, a commis ou non un excès de pouvoir, en rejetant l'exception\nde procédure au motif que l'article 1037-1 du code de procédure civile n'est pas applicable en Nouvelle-Calédonie.\n7. Selon l'article 72-3 de la Constitution, la Nouvelle-Calédonie constitue une\ncollectivité d'outre-mer dotée d'un statut particulier qui lui a été conféré par la loi\nconstitutionnelle n° 98-610 du 20 juillet 1998. Ce statut est défini par le titre XIII de\nla Constitution.\n8. En premier lieu, en application du principe de spécialité législative, auquel demeure\nsoumise la Nouvelle-Calédonie à la suite de la révision constitutionnelle du 20 juillet\n1998, les lois et règlements n'y sont applicables que sur mention expresse.\n9. Aux termes de l'article 6-2, alinéa 1, de la loi n° 99-209 organique du 19 mars\n1999, dans les matières qui relèvent de la compétence de l'État, sont applicables en\nNouvelle-Calédonie les dispositions législatives et réglementaires qui comportent une\nmention expresse à cette fin.\n10. Selon l'article 6-2, alinéa 2, 1°, de la même loi, sont applicables de plein droit en\nNouvelle-Calédonie, sans préjudice des dispositions les adaptant à son organisation\nparticulière, les dispositions législatives et réglementaires qui sont relatives à la composition, l'organisation, le fonctionnement et les attributions de la Cour de cassation.\n11. En second lieu, selon l'article 21, I, 2°, de la même loi, l'État est compétent dans\nles matières relatives à la justice et à l'organisation judiciaire.\n12. L'article 22, 18°, de la même loi prévoit que la Nouvelle-Calédonie est compétente en matière de procédure civile.\n13. Selon l'article 1037-1 du code de procédure civile, dans sa rédaction issue du\ndécret n° 2017-891 du 6 mai 2017, qui est inséré, au sein de ce code, dans les dispositions particulières aux juridictions de renvoi après cassation, en cas de renvoi devant\nla cour d'appel, lorsque l'affaire relevait de la procédure ordinaire, la déclaration de\nsaisine est signifiée par son auteur aux autres parties à l'instance ayant donné lieu à la\ncassation dans les dix jours de la notification par le greffe de l'avis de fixation. Ce délai\nest prescrit à peine de caducité de la déclaration, relevée d'office par le président de la\nchambre ou le magistrat désigné par le premier président.\n14. Ce texte ne comporte aucune mention expresse de ce qu'il serait applicable en\nNouvelle-Calédonie.\n15. En outre, l'article 1037-1 du code de procédure civile ne relevant pas de la composition, de l'organisation, du fonctionnement et des attributions de la Cour de cassation, il ne s'impose pas de plein droit en Nouvelle-Calédonie.\n16. Enfin, le code de procédure civile de la Nouvelle-Calédonie, qui contient un\nchapitre consacré au pourvoi en cassation divisé en deux sections, l'une, relative aux\ndispositions générales et précisant, à l'article 605, que le pourvoi en cassation et la\nprocédure devant la Cour de cassation sont régis par les textes applicables devant cette\n\nArrêts des chambres et ordonnances du Premier Président\nCour, l'autre, relative à la procédure après renvoi, ne contient aucune disposition similaire à l'article 1037-1 du code de procédure civile ni ne renvoie à ce texte.\n17. Il résulte de ce qui précède que l'article 1037-1 du code de procédure civile n'est\npas applicable en Nouvelle-Calédonie.\n18. Par conséquent, le grief, qui reproche à la cour d'appel de ne pas avoir fait application de ce texte en Nouvelle-Calédonie, ne caractérise pas un excès de pouvoir.\n19. Le pourvoi n'est, dès lors, pas recevable."
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 606, 607 et 608 du code de procédure civile",
+      "article 1037-1 du code de procédure civile"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Irrecevabilité",
+    "verdict_header": "Irrecevabilité",
+    "orders": [
+      "DÉCLARE IRRECEVABLE le pourvoi."
+    ],
+    "reasoning": ""
+  }
+}

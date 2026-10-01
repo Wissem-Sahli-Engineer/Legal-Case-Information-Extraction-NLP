@@ -1,0 +1,35 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 31,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Troisième chambre civile",
+    "date": "2026-05-21",
+    "case_number": "24-20.377",
+    "president": "Mme Teiller"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'ordonnance attaquée, rendue par le premier président d'une cour d'appel\n(Basse-Terre, 23 février 2024), par ordonnance du 28 septembre 2018, la présidente\nd'un tribunal a désigné M. [I], administrateur judiciaire, en qualité d'administrateur\nprovisoire du syndicat des copropriétaires de la [Adresse 1] (le syndicat des copropriétaires).\n2. Par ordonnance du 1er février 2022, la présidente du même tribunal a, au visa de\nl'ordonnance « du 28 septembre 2018 désignant la Selarl AJAssociés prise en la personne d'[A] [I] en qualité d'administrateur provisoire du syndicat des copropriétaires »,\narrêté à certaines sommes le montant des émoluments tarifés de l'administrateur provisoire et des frais et débours.",
+    "claims": "Examen des moyens\nSur le premier moyen, pris en sa seconde branche\nEnoncé du moyen\n3. La société AJAssociés et M. [I] font grief à l'ordonnance d'annuler l'ordonnance\nfixant les émoluments de l'administrateur judiciaire, alors « que l'administrateur judiciaire exerçant au sein d'une société ne peut exercer sa profession à titre individuel et\nexerce nécessairement ses fonctions au nom de la société de sorte que la société peut\négalement agir au nom de ce dernier ; qu'en retenant cependant, pour prononcer la\nnullité de l'ordonnance du 1er février 2022 fixant les émoluments de l'administrateur,\nque les personnalités juridiques de Maître [A] [I] et de la Selarl AJAssociés sont distinctes et ne peuvent être confondues au seul motif que la seconde est gérée par le premier et qu'il est faux de prétendre qu'en sa qualité d'administrateur judiciaire Maître\n[A] [I] ne pouvait exercer sa mission qu'au travers sa structure d'exercice, le délégué\ndu premier président de la cour d'appel a violé les dispositions des articles R. 814-83\net 814-84 du code de commerce ensemble l'article 31 du code de procédure civile. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article r. 814-83\net 814-84 du code de commerce",
+      "article 31 du code de procédure civile",
+      "article r. 814-83 et r. 814-84 du code de commerce"
+    ],
+    "previous_decision": {
+      "court": "Cour d'appel de Basse-Terre",
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation partielle",
+    "orders": [
+      "CASSE ET ANNULE, sauf en ce qu'elle dit recevable le recours formé par le syndicat des copropriétaires de la [Adresse 1] à l'encontre de l'ordonnance de taxe de la présidente du tribunal judiciaire de Basse-Terre du 1er février 2022, l'ordonnance rendue le 23 février 2024, entre les parties, par le premier président de la cour d'appel de Basse-Terre",
+      "Remet, sauf sur ce point, l'affaire et les parties dans l'état où elles se trouvaient avant cet arrêt et les renvoie devant le premier président de la cour d'appel de Basse-Terre, autrement composé."
+    ],
+    "reasoning": "Réponse de la Cour\nVu les articles R. 814-83 et R. 814-84 du code de commerce :\n4. Aux termes du premier de ces textes, lorsque le tribunal nomme une société, il désigne en son sein un ou plusieurs associés exerçant l'activité d'administrateur judiciaire\nou de mandataire judiciaire pour la représenter dans l'accomplissement du mandat qui\nlui est confié.\n5. Aux termes du second, un administrateur judiciaire ou un mandataire judiciaire\nassocié exerçant au sein d'une société ne peut exercer sa profession à titre individuel\nou en qualité de membre d'une autre société, quelle qu'en soit la forme.\n\nArrêts des chambres et ordonnances du Premier Président\n6. Il en résulte qu'un administrateur judiciaire associé qui exerce au sein d'une société\nne peut exercer sa profession à titre individuel et qu'il agit nécessairement au nom de\nla société, de sorte que, même s'il est désigné personnellement par ordonnance pour\nexercer des fonctions d'administrateur provisoire d'un syndicat des copropriétaires,\nseule la société dont il est associé peut percevoir la rémunération de la mission d'administration provisoire et le montant des frais et débours exposés.\n7. Pour annuler l'ordonnance de taxe, l'ordonnance constate que la décision nommant un administrateur provisoire du syndicat des copropriétaires désigne expressément M. [I], et non la société AJAssociés, prise en la personne de celui-ci, et relève\nque l'un et l'autre sont des personnes distinctes qui ne peuvent être confondues au\nseul motif que la seconde est gérée par le premier, que M. [I] n'était pas contraint de\nremplir sa mission à travers sa structure d'exercice, et qu'il lui appartenait de requérir\nla présidente du tribunal qui l'avait mandaté pour lui substituer cette structure ou\nrectifier une éventuelle erreur matérielle à cet égard, ce dont il résulte que la société\nAJAssociés ne peut demander la taxation des honoraires revenant à M. [I], seul administrateur désigné.\n8. En statuant ainsi, la cour d'appel a violé les textes susvisés."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source_file": "Bulletin_criminel_2026-6.pdf",
+  "decision_index": 17,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre criminelle",
+    "date": "2026-06-02",
+    "case_number": "25-81.863",
+    "president": "M. Bonnal"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Il résulte de l'arrêt attaqué et des pièces soumises à l'examen de la Cour de cassation\nce qui suit.\n2. M. [U] [D] a été poursuivi des chefs de refus d'obtempérer aggravé par la mise en\ndanger d'autrui et de conduite d'un véhicule sans permis.\n3. Le tribunal correctionnel l'a déclaré coupable de ces faits, condamné à la peine de\nsix mois d'emprisonnement et a ordonné la confiscation des scellés.\n4. L'intéressé et le ministère public ont relevé appel de cette décision, appels limités\naux peines prononcées.",
+    "claims": "Examen des moyens\nSur le premier moyen\nEnoncé du moyen\n5. Pris de la violation des articles L. 224-12, L. 233-1 et L. 233-1-1 du code de la\nroute, le moyen fait grief à la décision attaquée d'avoir prononcé une peine de six mois\nd'emprisonnement en répression des délits de refus d'obtempérer aggravé par la mise\nen danger d'autrui et de conduite d'un véhicule sans permis, commis à l'occasion de\nla conduite du même véhicule et dans les mêmes circonstances de temps et de lieu,\nalors que le cumul de la peine prononcée pour le délit de refus d'obtempérer avec\ncelles prononcées pour les autres délits commis à l'occasion de la conduite du véhicule\ntrouve nécessairement à s'appliquer en cas de commission du délit de refus d'obtempérer aggravé visé à l'article L. 233-1-1 du code de la route, lequel opère un renvoi\nexprès à l'article L. 233-1 du même code."
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article l. 233-1-1 du code de la route",
+      "article l. 224-12 et l. 233-1-1 du code de la route",
+      "article l. 224-12, l. 233-1 et l. 233-1-1 du code de la route"
+    ],
+    "previous_decision": {
+      "court": "Cour d'appel de Versailles",
+      "date": "2025-02-13"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation",
+    "orders": [
+      "CASSE et ANNULE l'arrêt susvisé de la cour d'appel de Versailles, en date du 13 février 2025, en toutes ses dispositions, et pour qu'il soit à nouveau jugé, conformément à la loi, RENVOIE la cause et les parties devant la cour d'appel de Versailles, autrement composée, à ce désignée par délibération spéciale prise en chambre du conseil",
+      "ORDONNE l'impression du présent arrêt, sa transcription sur les registres du greffe de la cour d'appel de Versailles et sa mention en marge ou à la suite de l'arrêt annulé."
+    ],
+    "reasoning": "Réponse de la Cour\n6. En répression des délits de refus d'obtempérer aggravé par la mise en danger d'autrui et de conduite d'un véhicule sans permis, l'arrêt attaqué condamne le prévenu à\nla peine de six mois d'emprisonnement.\n7. En prononçant ainsi, la cour d'appel a fait l'exacte application des textes\nvisés au moyen.\n8. En effet, l'article L. 233-1-1 du code de la route renvoie seulement aux faits prévus\nà l'article L. 233-1 du même code sans faire référence aux dispositions de l'alinéa 2\nde ce texte instituant une dérogation au principe du non cumul des peines de même\nnature prévu par les articles 132-2 à 132-4 du code pénal.\n9. Il n'autorise donc pas le prononcé d'une peine autonome pour le délit de refus\nd'obtempérer aggravé.\n10. Dès lors, le moyen ne saurait être accueilli.\nMais sur le second moyen\nEnoncé du moyen\n11. Pris de la violation des mêmes textes, le moyen fait grief à la décision attaquée\nde ne pas avoir prononcé la peine complémentaire d'interdiction d'obtenir le permis\nde conduire, alors que la lecture combinée de ces dispositions oblige la juridiction de\njugement, en répression du délit de refus d'obtempérer commis dans les circonstances\nprévues au premier alinéa de l'article L. 233-1-1 du code de la route, à prononcer une\npeine complémentaire d'interdiction de solliciter la délivrance du permis de conduire,\nqui est encourue de plein droit dès lors que la personne poursuivie n'est pas titulaire\nde ce titre au moment de la condamnation.\nRéponse de la Cour\nVu les articles L. 224-12 et L. 233-1-1 du code de la route :\n12. Il résulte du premier de ces textes qu'en cas de condamnation pour le délit prévu\nau second, l'annulation de plein droit du permis de conduire, avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au plus est remplacée par\n\nl'interdiction, pour la même durée, d'obtenir la délivrance de celui-ci si le conducteur\nn'en est pas titulaire.\n13. En répression des délits de refus d'obtempérer aggravé par la mise en danger d'autrui et de conduite d'un véhicule sans permis, l'arrêt attaqué condamne le prévenu à\nla peine de six mois d'emprisonnement.\n14. En prononçant ainsi, alors que la peine complémentaire d'interdiction de solliciter\nla délivrance du permis de conduire était encourue de plein droit, la cour d'appel a\nméconnu les textes visés au moyen.\n15. La cassation est par conséquent encourue de ce chef."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 69,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Deuxième chambre civile",
+    "date": "2026-05-21",
+    "case_number": "23-20.970",
+    "president": "Mme Martinel"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon le jugement attaqué (tribunal judiciaire de Saint-Etienne, 10 juillet 2023),\nrendu en dernier ressort, M. [I] [N] et Mme [Y] [F] épouse [N] qui avaient saisi une\ncommission de surendettement d'une demande de traitement de leur situation financière, ont contesté la décision d'irrecevabilité prise à leur égard.\n2. Par un jugement du 13 décembre 2021, un tribunal judiciaire a déclaré leur demande recevable.\n\nArrêts des chambres et ordonnances du Premier Président\n3. Ce tribunal a été saisi d'une tierce-opposition par l'un des créanciers, non attrait\nà la procédure. Mme [K] [N], M. [O] [N] et M. [T] [N], créanciers également non\ncompris dans cette procédure, sont intervenus à l'instance.",
+    "claims": "Examen du moyen\nSur le moyen, pris en sa première branche\nEnoncé du moyen\n4. M. [I] [N] et Mme [Y] [F] épouse [N] font grief au jugement de déclarer irrecevable leur demande de traitement de leur situation de surendettement, alors « que le\nbénéfice des mesures de traitement des situations de surendettement est ouvert aux\npersonnes physiques de bonne foi ; que le juge doit se prononcer sur la bonne foi\nde chaque demandeur à la procédure de surendettement ; qu'en examinant la seule\nsituation de M. [N], pour constater que les époux [N] n'étaient pas de bonne foi et\ndéclarer irrecevable leur demande de traitement de leur situation de surendettement,\nsans examiner la situation de Mme [N], le juge des contentieux de la protection a violé\nl'article L. 711-1 du code de la consommation. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article l. 711-1 du code de la consommation",
+      "article l. 330-1 du code de la consommation"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation partielle",
+    "orders": [
+      "CASSE ET ANNULE, sauf en ce qu'il a déclaré recevable en la forme le recours formé par M. [L] [W] à l'encontre du jugement du 13 décembre 2021, le jugement rendu le 10 juillet 2023, entre les parties, par le tribunal judiciaire de Saint-Etienne",
+      "Remet l'affaire et les parties dans l'état où elles se trouvaient avant cet arrêt et les renvoie devant le tribunal judiciaire de Lyon."
+    ],
+    "reasoning": "Réponse de la Cour\nRecevabilité du moyen\n5. Mme [K] [N], M. [O] [N] et M. [T] [N] contestent la recevabilité du moyen. Ils\nsoutiennent que celui-ci est nouveau et mélangé de fait et de droit.\n6. Cependant, le moyen, en ce qu'il postule l'absence d'examen de la situation individuelle de chacun des époux lors de l'examen de la recevabilité de la demande\nconjointe de traitement de leur situation financière, est de pur droit comme étant né\nde la décision attaquée.\n7. Le moyen, est, dès lors, recevable.\nBien-fondé du moyen\nVu l'article L. 711-1 du code de la consommation :\n8. Il résulte de ce texte, qui n'ouvre le bénéfice des mesures de traitement des situations de surendettement qu'aux personnes physiques de bonne foi, que le juge doit se\nprononcer sur la bonne foi de chaque demandeur à la procédure de surendettement.\n9. Pour constater que M. [I] [N] et Mme [Y] [F] épouse [N] ne sont pas de bonne\nfoi et déclarer en conséquence irrecevable leur demande de traitement de leur situation financière, le juge des contentieux de la protection retient que M. [I] [N] brasse,\ndepuis plusieurs années, des sommes d'argent extrêmement importantes sans que l'on\npuisse réellement, pour une majeure partie, cerner l'utilisation précise, que le seul argument présenté par M. [I] [N], visant à injecter ces sommes d'argent dans des stratégies industrielles peu claires et a priori très hasardeuses, ne saurait suffire à justifier d'un\nendettement actuel de 1 933 424,89 euros et qu'il apparaît également qu'il ne s'est pas\nmontré réellement désireux d'apurer, à tout le moins partiellement, son passif jusqu'à\nbloquer la procédure de vente d'un bien immobilier de la succession. Il en déduit que\nde tels éléments sont constitutifs de la mauvaise foi et que la demande de M. [I] [N]\net Mme [Y] [F] épouse [N] doit être déclarée irrecevable.\n\nArrêts des chambres et ordonnances du Premier Président\n10. En se déterminant ainsi, par des motifs impropres qui ne distinguent pas la situation individuelle de chacun des époux, le juge n'a pas donné de base légale à sa\ndécision."
+  }
+}

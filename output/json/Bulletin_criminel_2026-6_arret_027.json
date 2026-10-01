@@ -1,0 +1,39 @@
+{
+  "source_file": "Bulletin_criminel_2026-6.pdf",
+  "decision_index": 27,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre criminelle",
+    "date": "2026-06-30",
+    "case_number": "25-85.934",
+    "president": "M. Bonnal"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Il résulte de l'arrêt attaqué et des pièces soumises à l'examen de la Cour de cassation\nce qui suit.\n2. M. [M] [I] a été poursuivi pour avoir fait édifier deux immeubles d'habitation sur\nune parcelle classée en zone agricole du plan local d'urbanisme.\n3. Le tribunal correctionnel l'a déclaré coupable d'exécution de travaux non autorisés\npar un permis de construire et d'infraction aux dispositions du plan local d'urbanisme,\nl'a condamné à 5 000 euros d'amende, a ordonné la remise en état des lieux, sous astreinte, et a prononcé sur les intérêts civils.\n4. Le prévenu et le procureur de la République ont relevé appel de cette décision.",
+    "claims": "Examen du moyen\nEnoncé du moyen\n5. Le moyen critique l'arrêt attaqué en ce qu'il a ordonné la remise en état des lieux,\nalors :\n« 1°/ que lorsqu'une construction a été irrégulièrement édifiée sans permis de\nconstruire, la délivrance ultérieure d'un permis tacite fait obstacle à une mesure de\ndémolition de l'ouvrage ou de remise en état ; qu'est à cet égard indifférent que le\npermis tacitement obtenu soit illégal sur le fond ou qu'il ait été obtenu du fait de\nl'inertie de l'administration ; qu'en se fondant sur la circonstance, inopérante, que le\npermis tacite de régularisation obtenu par M. [I] « ne repose[rait] que sur une supposée erreur de délai ou d'adressage et sur aucun argument de fond, (...) et priverait la\njustice pénale de toute sanction adaptée et efficace contre un condamné » (arrêt p.6,\n§ 5) pour ordonner les mesures de remise en état auxquelles ce permis faisait pourtant\nobstacle, la cour d'appel a méconnu les articles L. 4805, R. 424-1 et R. 424-10 du\ncode de l'urbanisme, ensemble les articles 591 et 593 du code de procédure pénale ;\n2°/ que l'auteur d'une demande de permis de construire est réputé être titulaire\nd'un permis tacite si aucune décision ne lui a été notifiée avant l'expiration du délai\nréglementaire d'instruction de son dossier ; que la décision accordant ou refusant le\npermis doit être notifiée au demandeur par lettre recommandée avec demande d'avis\nde réception postal ; qu'il incombe à l'administration, lorsque sa décision est parvenue\n\nau pétitionnaire après l'expiration de ce délai et qu'elle entend contester l'existence\nd'un permis tacite, d'établir la date à laquelle le pli portant notification de sa décision a\nrégulièrement fait l'objet d'une première présentation à l'adresse de l'intéressé ; qu'en\njugeant que la décision de refus de permis du 21 juin 2021 avait bien fait l'objet d'une\nnotification « puisque sur l'enveloppe le cachet de la poste est apposé à la date du\n24/06/2021, de sorte que la commune a bien procédé aux formalités de notification\ndans les délais exigés par la loi » (arrêt p. 6, § 6), quand seule la production de l'accusé\nde réception du courrier recommandé ou d'une attestation de l'administration postale\npermettait d'établir la date de première présentation du pli à l'adresse du pétitionnaire,\nla cour d'appel a méconnu les articles R. 4241 et R. 424-10 du code de l'urbanisme,\nensemble les articles 591 et 593 du code de procédure pénale. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article r. 424-10 du code de l'urbanisme",
+      "article l. 4805, r. 424-1 et r. 424-10 du code de l'urbanisme",
+      "article 591 et 593 du code de procédure pénale",
+      "article r. 4241 et r. 424-10 du code de l'urbanisme",
+      "article l. 480-13, r. 424-10 du code de l'urbanisme",
+      "article 593 du code de procédure pénale"
+    ],
+    "previous_decision": {
+      "court": "Cour d'appel de Saint-Denis de La",
+      "date": "2025-06-05"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation partielle",
+    "orders": [
+      "CASSE et ANNULE l'arrêt susvisé de la cour d'appel de Saint-Denis de La Réunion, en date du 5 juin 2025, mais en ses seules dispositions relatives à la remise en état des lieux, toutes autres dispositions étant expressément maintenues",
+      "Et pour qu'il soit à nouveau jugé, conformément à la loi, dans les limites de la cassation ainsi prononcée, RENVOIE la cause et les parties devant la cour d'appel de Saint-Denis de La Réunion, autrement composée, à ce désignée par délibération spéciale prise en chambre du conseil",
+      "ORDONNE l'impression du présent arrêt, sa transcription sur les registres du greffe de la cour d'appel de Saint-Denis de La Réunion et sa mention en marge ou à la suite de l'arrêt partiellement annulé."
+    ],
+    "reasoning": "Réponse de la Cour\nVu les articles L. 480-13, R. 424-10 du code de l'urbanisme et 593 du code de procédure pénale :\n6. Il résulte du premier de ces textes que lorsqu'une construction a été irrégulièrement édifiée sans permis de construire, la délivrance ultérieure d'un permis tacite, si\nelle ne fait pas disparaître l'infraction consommée, fait obstacle à une mesure de démolition de l'ouvrage tant que ce permis n'a pas été annulé pour excès de pouvoir ou\nque son illégalité n'a pas été constatée par la juridiction administrative.\n7. Selon le deuxième, la décision accordant ou refusant le permis ou s'opposant au\nprojet faisant l'objet d'une déclaration préalable est notifiée au demandeur par lettre\nrecommandée avec demande d'avis de réception.\n8. Cette notification doit être regardée comme étant intervenue à la date à laquelle le\npli a été présenté pour la première fois à l'adresse du demandeur.\n9. Tout jugement ou arrêt doit comporter les motifs propres à justifier la décision et\nrépondre aux chefs péremptoires des conclusions des parties.\nL'insuffisance ou la contradiction des motifs équivaut à leur absence.\n10. Pour écarter le moyen du prévenu qui, afin de contester la remise en état ordonnée par le premier juge, soutenait être bénéficiaire d'un permis tacite depuis le\n18 juillet 2021, faute d'avoir reçu l'arrêté du maire refusant sa demande de permis de\nconstruire déposée le 18 mai 2021, l'arrêt attaqué énonce que la décision de refus de\npermis de construire a bien fait l'objet d'une notification puisque, sur l'enveloppe, le\ncachet de la poste est apposé à la date du 24 juin 2021, de sorte que la commune a bien\nprocédé aux formalités de notification dans les délais exigés par la loi.\n11. En se déterminant ainsi, alors qu'elle devait rechercher si la lettre recommandée\nportant notification de l'arrêté de refus de permis de construire avait fait l'objet d'une\npremière présentation à l'adresse du destinataire avant l'expiration du délai d'instruction de la demande, la cour d'appel n'a pas justifié sa décision.\n12. La cassation est par conséquent encourue, sans qu'il y ait lieu d'examiner les autres\ngriefs.\nPortée et conséquences de la cassation\n13. La cassation sera limitée à la mesure de remise en état des lieux, dès lors que la\ndéclaration de culpabilité, la peine et les dispositions civiles n'encourent pas la censure.\nLes autres dispositions seront donc maintenues."
+  }
+}

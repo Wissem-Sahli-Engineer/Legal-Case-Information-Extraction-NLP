@@ -1,0 +1,46 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 35,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre commerciale financière et économique",
+    "date": "2026-05-20",
+    "case_number": "25-11.302",
+    "president": "Mme Schmidt"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Caen, 5 décembre 2024), le 5 octobre 2021, la société MJI a\nété mise en redressement judiciaire, la date de cessation des paiements étant fixée au\n30 juin 2021.\n2. Le 8 avril 2022, la procédure a été étendue à la société MJ en raison de la confusion\nde leurs patrimoines.\n3. La procédure a été convertie le 20 mai 2022 en liquidation judiciaire.\n4. Par actes des 21 octobre, 14 novembre et 22 décembre 2022, le liquidateur a assigné\nles sociétés MJI et MJ en report de la date de cessation des paiements.",
+    "claims": "Examen du moyen\nEnoncé du moyen\n5. Le liquidateur fait grief à l'arrêt de confirmer le jugement en ce qu'il a dit irrecevable sa demande, alors « que la demande de modification de la date de cessation\ndes paiements doit être présentée au tribunal dans le délai d'un an après le jugement\nd'ouverture de la procédure ; qu'en l'espèce, la cour d'appel a considéré qu'il résulte\ndu principe d'unicité de la procédure collective ouverte à l'égard d'une société et\nétendue à une autre que le point de départ du délai de prescription de l'action en report de la date de cessation des paiements est le jugement d'ouverture de la procédure\nà l'égard de la première d'entre elles et que, par conséquent, le délai d'un an ouvert à\nla SELARL SBCMJ pour solliciter le report de la date de cessation des paiements avait\neu pour point de départ le jugement d'ouverture du 5 octobre 2021 et avait expiré le\n5 octobre 2022, soit avant la délivrance les 21 octobre, 14 novembre et 22 décembre\n2022 des assignations en report de cette date, de sorte que l'action de la SELARL\nSBCMJ devait être déclarée irrecevable comme prescrite ; qu'en statuant ainsi, quand\nle point de départ du délai de prescription d'une demande de modification de la date\nde cessation des paiements est la date du prononcé du jugement d'ouverture de la\nprocédure visant la société concernée par la cessation des paiements, y compris si le\njugement d'ouverture a pour effet d'étendre une procédure collective déjà ouverte, de\nsorte que le délai de prescription de l'action de la SELARL SBCMJ avait commencé\nà courir lors du prononcé le 8 avril 2022 du jugement d'ouverture de la procédure\ncollective à l'encontre de la SARL MJ, la cour d'appel a violé l'article L. 631-8 du\ncode de commerce. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article l. 631-8 et l. 621-2 du code de commerce",
+      "article l. 631-8 du code de commerce",
+      "article l. 621-2 et l. 631-8 du code de commerce"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi.",
+      "Arrêts des chambres et ordonnances du Premier Président"
+    ],
+    "reasoning": "Réponse de la Cour\n6. Il résulte des articles L. 631-8 et L. 621-2 du code de commerce et du principe\nd'unicité de la procédure collective que, dans l'hypothèse d'une procédure collective\nouverte à l'égard d'une société et étendue à une autre, le point de départ du délai de\nprescription de l'action en report de la date de cessation des paiements mentionné par\nle premier de ces textes est le jugement d'ouverture de la procédure et non le jugement d'extension de cette procédure.\n7. Le moyen, qui postule le contraire, n'est donc pas fondé."
+  },
+  "prediction": {
+    "model": "A · spaCy + TF-IDF + régression logistique",
+    "verdict": "Rejet",
+    "confidence": 0.9221,
+    "probabilities": {
+      "Rejet": 0.9221,
+      "Cassation": 0.0513,
+      "Irrecevabilité": 0.0043,
+      "Autre": 0.0223
+    }
+  }
+}

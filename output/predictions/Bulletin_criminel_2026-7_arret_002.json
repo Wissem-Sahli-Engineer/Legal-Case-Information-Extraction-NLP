@@ -1,0 +1,44 @@
+{
+  "source_file": "Bulletin_criminel_2026-7.pdf",
+  "decision_index": 2,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre criminelle",
+    "date": "2026-07-29",
+    "case_number": "26-83.061",
+    "president": "M. Sottet"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Il résulte de l'arrêt attaqué et des pièces soumises à l'examen de la Cour de cassation\nce qui suit.\n2. M. [C] [H], majeur protégé sous curatelle renforcée et mis en examen des chefs\nsusmentionnés, a été placé en détention provisoire puis sous contrôle judiciaire.\n3. Par ordonnance du 16 février 2026, le juge des libertés et de la détention a révoqué\nson contrôle judiciaire et l'a placé en détention provisoire.\n4. L'intéressé a relevé appel de cette décision.",
+    "claims": "Examen des moyens\nSur les premier, deuxième et troisième moyens\nEnoncé des moyens\n5. Les moyens sont pris de la violation des articles 706-113 et 591 du code de procédure pénale.\n6. Le premier moyen critique l'arrêt attaqué en ce qu'il a fait droit à la demande\nd'annulation de l'ordonnance de placement en détention provisoire et mis en liberté\nM. [H], alors que l'article 706-113 du code de procédure pénale ne fait nullement\n\nobligation au juge d'instruction, à l'issue de son interrogatoire, de procéder à un second avis au curateur en vue du débat contradictoire.\n7. Le deuxième moyen critique l'arrêt attaqué en ce qu'il a fait droit à la demande\nd'annulation de l'ordonnance de placement en détention provisoire et mis en liberté\nM. [H], alors que, d'une part, l'article 706-113 du code de procédure pénale ne fait\nnullement obligation au juge des libertés et de la détention d'adresser d'initiative un\navis au curateur sur la tenue d'un débat contradictoire, ce texte faisant peser cette obligation sur le seul procureur ou juge d'instruction, d'autre part, la chambre de l'instruction a procédé à la scission d'une phase procédurale unique visant à la révocation d'un\ncontrôle judiciaire que seul le juge d'instruction ou le procureur étaient en mesure\nd'initier sans pouvoir décider de son issue et que l'avis de deux envois successifs, l'un\npar le juge d'instruction, l'autre par le juge des libertés et de la détention, procéderait\nd'un formalisme excessif non prévu par la loi.\n8. Le troisième moyen critique l'arrêt attaqué en ce qu'il a fait droit à la demande\nd'annulation de l'ordonnance de placement en détention provisoire et mis en liberté\nM. [H], alors qu'aucun grief n'est résulté pour la personne poursuivie du défaut allégué d'avis à son curateur dès lors que celle-ci était assistée d'un avocat qui était en\nmesure de solliciter que soit effectué un second avis au curateur."
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 706-113 et 591 du code de procédure pénale",
+      "article 706-113 du code de procédure pénale"
+    ],
+    "previous_decision": {
+      "court": "Cour d'appel de Rouen",
+      "date": "2026-02-27"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi."
+    ],
+    "reasoning": "Réponse de la Cour\n9. Les moyens sont réunis.\n10. Pour annuler l'ordonnance de révocation du contrôle judiciaire et de placement\nen détention provisoire, l'arrêt attaqué énonce que la règle selon laquelle le curateur\nd'une personne protégée doit être avisé de toute audience la concernant s'applique au\ndébat contradictoire devant le juge des libertés et de la détention saisi d'une demande\nde révocation de contrôle judiciaire et de placement en détention provisoire.\n11. Les juges relèvent qu'en l'espèce M. [H] bénéficie d'une mesure de curatelle\nrenforcée et que son curateur, avisé par le greffier du juge d'instruction d'une présentation devant ce magistrat concernant une éventuelle révocation du contrôle judiciaire\ndu majeur protégé, n'a pas été informé, à l'issue de l'interrogatoire, de la saisine du juge\ndes libertés et de la détention en vue de la tenue d'un débat contradictoire.\n12. Ils concluent que ce défaut d'information fait nécessairement grief à l'intéressé.\n13. En statuant ainsi, la chambre de l'instruction n'a méconnu aucun des textes visés\nau moyen.\n14. En effet, l'avis donné au curateur du défèrement du majeur protégé devant le juge\nd'instruction aux fins d'éventuelle révocation du contrôle judiciaire est sans effet sur\nl'obligation d'informer ce même curateur de la saisine du juge des libertés et de la\ndétention aux fins de tenue d'un débat contradictoire sur le placement en détention\nprovisoire de la personne protégée.\nL'absence de cette information fait nécessairement grief à cette dernière.\n15. Ainsi les moyens doivent être écartés.\n16. Par ailleurs, l'arrêt est régulier en la forme."
+  },
+  "prediction": {
+    "model": "A · spaCy + TF-IDF + régression logistique",
+    "verdict": "Rejet",
+    "confidence": 0.9664,
+    "probabilities": {
+      "Rejet": 0.9664,
+      "Cassation": 0.0163,
+      "Irrecevabilité": 0.0044,
+      "Autre": 0.0129
+    }
+  }
+}

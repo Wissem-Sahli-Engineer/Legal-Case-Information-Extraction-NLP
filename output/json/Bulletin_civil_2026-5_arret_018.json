@@ -1,0 +1,36 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 18,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre commerciale financière et économique",
+    "date": "2026-05-13",
+    "case_number": "24-17.137",
+    "president": "M. Vigneau"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Paris, 24 avril 2024), le 9 août 2019, la société Comuto Pro\n(la société Comuto), qui commercialise des services de transport interurbain par autocar, dont elle sous-traite l'exécution à des transporteurs, a conclu avec la société Les\nVoyages Star et Capri Cars (la société Capri cars) un contrat d'une durée de trois ans,\nportant sur une prestation de transport de voyageurs par autocar, pour une prise d'effet\nau 7 octobre 2019.\n2. Le 23 avril 2020, la société Comuto a notifié à la société Capri cars un projet d'avenant, ouvrant, conformément à l'article 5.2.2. du contrat, une période de négociation\nde deux mois.\nLe 24 juin 2020, constatant l'échec des négociations, la société Comuto a, en vertu du\nmême article, notifié à la société Capri cars la résiliation du contrat avec un préavis de\ntrois mois.\n3. Reprochant à la société Comuto de lui avoir imposé un contrat d'adhésion créant,\nà son détriment, un déséquilibre significatif entre les droits et obligations respectifs des\nparties, la société Capri cars l'a assignée en réparation de son préjudice.",
+    "claims": "Examen des moyens\nSur le premier moyen, pris en sa seconde branche, et le second moyen\n4. En application de l'article 1014, alinéa 2, du code de procédure civile, il n'y a pas\nlieu de statuer par une décision spécialement motivée sur ces griefs qui ne sont manifestement pas de nature à entraîner la cassation.\n\nArrêts des chambres et ordonnances du Premier Président\nSur le premier moyen, pris en sa première branche\nEnoncé du moyen\n5. La société Capri cars fait grief à l'arrêt de juger que le contrat du 3 août 2019\nn'est pas un contrat d'adhésion et, en conséquence, de rejeter ses demandes indemnitaires, alors « que le contrat d'adhésion est celui qui comporte un ensemble de clauses\nnon négociables, déterminées à l'avance par l'une des parties ; que la qualification de\ncontrat d'adhésion peut être retenue si l'on trouve en son sein un ensemble de clauses\nnon négociables, même si le reste du contrat est négociable ; qu'en affirmant que la\nsociété Capri cars ne démontrait pas que le contrat litigieux constituait un contrat\nd'adhésion, dès lors qu'elle avait pu négocier certaines clauses du contrat, sans rechercher, comme elle y était pourtant invitée, si la qualification de contrat d'adhésion\npouvait néanmoins être retenue étant donné qu'un ensemble de clauses du contrat\nn'étaient pas négociables, à l'instar de la clause limitative de responsabilité au profit de\nla seule société Comuto ou de la clause de résiliation unilatérale en cas de refus par la\nsociété Capri cars des modifications contractuelles proposées, la cour d'appel a privé sa\ndécision de base légale au regard des articles 1110 et 1171 du code civil. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 1110 et 1171 du code civil",
+      "article 1171 du code civil",
+      "article l. 212-1 du code de la consommation",
+      "article l. 442-1 du code de commerce"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi.",
+      "Arrêts des chambres et ordonnances du Premier Président"
+    ],
+    "reasoning": "Réponse de la Cour\n6. Aux termes de l'article 1171 du code civil, dans un contrat d'adhésion, toute clause\nnon négociable, déterminée à l'avance par l'une des parties, qui crée un déséquilibre\nsignificatif entre les droits et obligations des parties au contrat est réputée non écrite.\n7. Il ressort des travaux parlementaires ayant abouti à la loi n° 2018-287 du 20 avril\n2018 ratifiant l'ordonnance n° 2016-131 du 10 février 2016 portant réforme du droit\ndes contrats, du régime général et de la preuve des obligations, que l'intention du législateur est que l'article 1171 du code civil, qui régit le droit commun des contrats,\nsanctionne les clauses abusives dans les contrats ne relevant pas des dispositions spéciales de l'article L. 442-6, I, 2°, du code de commerce, dans sa rédaction antérieure\nà celle issue de l'ordonnance n° 2019-359 du 24 avril 2019, dont les dispositions figurent désormais en substance à l'article L. 442-1, I, 2°, du même code et de l'article\nL. 212-1 du code de la consommation.\n8. L'article 1171 du code civil, interprété à la lumière de ces travaux, ne s'applique\ndonc pas aux contrats conclus par une personne exerçant des activités de production,\nde distribution ou de services, excepté si l'application de l'article L. 442-1 du code de\ncommerce à ces contrats est exclue par une autre disposition.\n9. L'arrêt constate que la société Comuto commercialise des services de transport, ce\ndont il résulte que les négociations commerciales qu'elle mène et les contrats commerciaux qu'elle passe entrent dans le champ d'application de l'article L. 442-1 du\ncode de commerce.\n10. Il s'ensuit que l'article 1171 du code civil n'est pas applicable au litige.\n11. Par ce motif de pur droit, suggéré par la défense, substitué à ceux critiqués dans\nles conditions prévues à l'article 620, alinéa 1er, du code de procédure civile, l'arrêt se\ntrouve légalement justifié.\n12. Le moyen ne peut donc être accueilli."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 15,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre commerciale financière et économique",
+    "date": "2026-05-20",
+    "case_number": "25-10.350",
+    "president": "M. Vigneau"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Paris, 3 juillet 2024), M. [G] était titulaire de plusieurs comptes\ntitres ouverts dans les livres de la Banque la hénin, aux droits de laquelle est venu le\nCrédit foncier de France.\n2. Les comptes de M. [G] ont été transférés à la Banque palatine.\n3. Le 31 août 2021, M. [G] a assigné la Banque palatine pour qu'il lui soit fait injonction de transférer les valeurs mobilières inscrites sur les comptes titres qui lui avaient\nété transmis par la Banque la hénin.\n\nArrêts des chambres et ordonnances du Premier Président",
+    "claims": "Examen du moyen\nSur le moyen pris en sa première branche\nEnoncé du moyen\n4. M. [G] fait grief à l'arrêt de déclarer prescrite son action en restitution, alors « que\nl'action en restitution engagée par le déposant d'un bien mobilier, qui tend au rétablissement de son plein droit de propriété sur le bien, est imprescriptible ; que dès lors, en\nretenant, pour dire irrecevable car prescrite la demande de M. [G] en restitution des\nsommes inscrites sur les comptes titres transférés dans les livres de la banque Palatine\nen 2008, que le délai de prescription de l'action en restitution est de cinq ans et court\nà compter du moment où le dépositaire informe le déposant ne plus être détenteur des\nbiens, la cour d'appel a violé, par fausse application, les articles 2224 du code civil et L.\n110-4 du code de commerce et, par refus d'application, l'article 2227 du code civil. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 2224 du code civil",
+      "article 2227 du code civil",
+      "article 2224 et 2227 du code civil",
+      "article l. 110-4 du code de commerce",
+      "article 2224, 2227 du code civil"
+    ],
+    "previous_decision": {
+      "court": "Cour d'appel de Paris",
+      "date": "2024-07-03"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation",
+    "orders": [
+      "CASSE ET ANNULE, en toutes ses dispositions, l'arrêt rendu le 3 juillet 2024, entre les parties, par la cour d'appel de Paris",
+      "Remet l'affaire et les parties dans l'état où elles se trouvaient avant cet arrêt et les renvoie devant la cour d'appel de Versailles."
+    ],
+    "reasoning": "Réponse de la Cour\nVu les articles 2224 et 2227 du code civil et l'article L. 110-4 du code de commerce :\n5. Il résulte de la combinaison du premier et du dernier de ces textes que les actions\npersonnelles ou mobilières entre commerçants et non-commerçants se prescrivent par\ncinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître\nles faits lui permettant de l'exercer.\n6. Il résulte du deuxième que, sauf disposition légale contraire, le droit de propriété\nest imprescriptible.\n7. Pour déclarer prescrite l'action de M. [G] contre la banque, l'arrêt retient que la\ndemande de transfert de valeurs mobilières s'analyse en une action en restitution fondée sur un contrat de dépôt, de prêt ou de mandat, qui doit être à ce titre soumise à la\nprescription commerciale de droit commun.\n8. En statuant ainsi, alors que l'action par laquelle le titulaire de valeurs mobilières en\nréclame la restitution à celui à qui il les a remises à titre précaire naît de son droit de\npropriété, la cour d'appel a violé par fausse application les premier et troisième textes\nsusvisés et par refus d'application le deuxième."
+  },
+  "prediction": {
+    "model": "A · spaCy + TF-IDF + régression logistique",
+    "verdict": "Cassation",
+    "confidence": 0.9955,
+    "probabilities": {
+      "Rejet": 0.0004,
+      "Cassation": 0.9955,
+      "Irrecevabilité": 0.0001,
+      "Autre": 0.004
+    }
+  }
+}

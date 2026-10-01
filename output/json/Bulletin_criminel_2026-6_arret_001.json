@@ -1,0 +1,40 @@
+{
+  "source_file": "Bulletin_criminel_2026-6.pdf",
+  "decision_index": 1,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre criminelle",
+    "date": "2026-06-23",
+    "case_number": "25-82.188",
+    "president": "M. Bonnal"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Il résulte de l'arrêt attaqué et des pièces soumises à l'examen de la Cour de cassation\nce qui suit.\n2. Le 15 février 2020, M. [I] [V] a déposé plainte pour atteinte à sa vie privée et diffusion d'images à caractère sexuel sur un site internet « Pornopolitique.com » puis sur\nles réseaux sociaux.\n3. Le 18 février 2020, une information a été ouverte contre M. [U] [H] et Mme [M]\n[E] des chefs d'atteinte à l'intimité de la vie privée par fixation, enregistrement ou\ntransmission de l'image d'une personne présentant un caractère sexuel et de conservation, diffusion auprès du public ou d'un tiers de tels enregistrements ou documents.\n4. A l'issue, tous deux ont été renvoyés devant le tribunal correctionnel qui, par jugement du 11 octobre 2023, a retenu leur culpabilité et a prononcé sur intérêts civils.\n5. Mme [E], M. [V] et le procureur de la République ont interjeté appel.",
+    "claims": "Examen du moyen\nEnoncé du moyen\n6. Le moyen critique l'arrêt attaqué en ce qu'il a renvoyé Mme [E] des fins de la poursuite et a en conséquence débouté M. [V] de ses demandes, alors :\n« 1°/ que, d'une part, le délit d'atteinte à l'intimité de la vie privée réprime la fixation,\nl'enregistrement ou la transmission de l'image d'une personne se trouvant dans un\nlieu privé, sans son consentement ; que cette incrimination s'applique à l'hypothèse de\nl'enregistrement de vidéos à caractère sexuel envoyées avec une modalité spécifique\nde transmission, n'autorisant qu'un visionnage unique et garantissant une suppression\nautomatique plusieurs secondes après leur consultation ; qu'en refusant de réprimer\nl'enregistrement et la conservation des vidéos intimes éphémères de Monsieur [V] aux\nmotifs que « les vidéos ayant été réalisées par la partie civile et transmises volontairement par celle-ci. Etendre la répression à la seule captation de celles-ci sur le téléphone\nde la destinataire, puis à leur conservation dans la mémoire d'un téléphone portable\nou d'un ordinateur personnel apparaît manifestement aller au-delà des prévisions de\nl'article 226-1 et 226-2 du code pénal », lorsqu'il est pourtant acquis que l'exposant,\nen envoyant ces vidéos avec une configuration spécifique, n'a pas consenti à ce que\nMadame [E] enregistre, par un procédé clandestin, son image et la conserve ensuite\ndans son téléphone et sur le disque dur de son ordinateur, la cour d'appel a violé les\narticles 111-4, 226-1 et 226-2 du code pénal, ensemble l'article 591 du code de procédure pénale ;\n2°/ que, d'autre part, il résulte de la jurisprudence de la Cour européenne des droits\nde l'homme une obligation positive pour les Etats de garantir que les droits découlant\nde l'article 8 de la Convention sont respectés ; que cette exigence implique que les\njuges nationaux adoptent une interprétation des textes de droit interne d'incrimination des atteintes à la vie privée qui soit conciliable avec les dispositions de la Convention ; qu'en refusant d'appliquer l'incrimination prévue par l'article 226-1 du code\npénal à l'hypothèse de l'envoi volontaire de vidéos éphémères, et donc en prononçant\nla relaxe Madame [E] qui a délibérément porté atteinte à la vie privée de Monsieur [V]\nen enregistrant et conservant les vidéos litigieuses lorsque ce dernier n'avait consenti\nqu'à un visionnage unique éphémère sans possibilité de conservation, la cour d'appel,\nqui a interprété trop restrictivement une disposition de droit interne, a violé l'article 8\nde la Convention européenne des droits de l'homme. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 226-1 et 226-2 du code pénal",
+      "article 111-4, 226-1 et 226-2 du code pénal",
+      "article 591 du code de procédure pénale",
+      "article 8 de la convention européenne des droits de l'homme",
+      "article 226-1 du code pénal",
+      "article 618-1 du code de procédure pénale"
+    ],
+    "previous_decision": {
+      "court": "Cour d'appel de Paris",
+      "date": "2025-01-31"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation partielle",
+    "orders": [
+      "CASSE et ANNULE l'arrêt susvisé de la cour d'appel de Paris, en date du 31 janvier 2025, mais en ses seules dispositions civiles concernant Mme [E], toutes autres dispositions étant expressément maintenues",
+      "Et pour qu'il soit à nouveau jugé, conformément à la loi, dans les limites de la cassation ainsi prononcée, RENVOIE la cause et les parties devant la cour d'appel de Paris, autrement composée, à ce désignée par délibération spéciale prise en chambre du conseil",
+      "DIT n'y avoir lieu à application de l'article 618-1 du code de procédure pénale",
+      "ORDONNE l'impression du présent arrêt, sa transcription sur les registres du greffe de la cour d'appel de Paris et sa mention en marge ou à la suite de l'arrêt partiellement annulé."
+    ],
+    "reasoning": "Réponse de la Cour\nVu l'article 226-1 du code pénal, dans sa version applicable à la date des faits :\n7. Ce texte, en son 2°, incrimine le fait, au moyen d'un procédé quelconque, de porter\nvolontairement atteinte à l'intimité de la vie privée d'autrui, en fixant, enregistrant\nou transmettant, sans le consentement de celle-ci, l'image d'une personne se trouvant\ndans un lieu privé.\nLe consentement de la personne concernée n'est présumé que lorsque ces actes ont\nété accomplis au vu et au su de l'intéressée sans qu'elle s'y soit opposée, alors qu'elle\nétait en mesure de le faire.\n8. Il s'en déduit que tout enregistrement ou transmission de l'image d'une personne\nse trouvant dans un lieu privé, aurait-elle même été fixée avec son consentement, est\nincriminé dès lors que cet enregistrement ou transmission est effectué à son insu.\n\n9. Pour débouter la partie civile de ses demandes, après relaxe des chefs susvisés, l'arrêt\nattaqué énonce notamment que la partie civile, qui s'était elle-même filmée, a adressé\nà Mme [E] ces vidéos à caractère sexuel en mai et août 2018, sous la forme de messages éphémères, qui devaient s'effacer automatiquement après avoir été visionnés.\n10. Les juges relèvent que la prévenue a copié ces vidéos sur son téléphone et son\nordinateur portables, sans aviser la partie civile de l'existence de ces copies.\n11. Ils ajoutent que le principe d'interprétation stricte de la loi pénale amène à exclure du champ répressif des articles 226-1 et 226-2 du code pénal la conservation,\ndans la mémoire d'un téléphone portable ou d'un ordinateur personnel, à l'insu de la\npartie civile, des vidéos réalisées et transmises volontairement par cette dernière.\n12. En statuant ainsi, la cour d'appel a méconnu le texte susvisé et le principe ci-dessus\nrappelé.\n13. En effet, elle ne pouvait prononcer la relaxe et débouter en conséquence la partie\ncivile, après avoir constaté que la prévenue avait procédé à l'enregistrement des images\nlitigieuses à l'insu de la partie civile, que cette dernière ne lui avait transmises que pour\nun visionnage unique suivi d'une suppression automatique, ce dont il se déduisait son\nabsence de consentement auxdites opérations d'enregistrement.\n14. La cassation est par conséquent encourue.\nPortée et conséquences de la cassation\n15. La cassation à intervenir ne concerne que les dispositions civiles de l'arrêt ayant\nrejeté les demandes de la partie civile concernant Mme [E], la relaxe de celle-ci des\nchefs précités ayant acquis autorité de chose jugée.\nLes autres dispositions seront donc maintenues.\n16. Il appartiendra à la cour d'appel de renvoi de rechercher l'existence d'une faute\ncivile, à partir et dans la limite des faits objet de la poursuite."
+  }
+}

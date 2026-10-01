@@ -1,4 +1,7 @@
 data/raw
+data/processed/
+data/*.log
+models/camembert_finetuned/
 .venv/
 __pycache__/
 .ipynb_checkpoints/

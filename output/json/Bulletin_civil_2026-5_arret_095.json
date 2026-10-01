@@ -1,0 +1,47 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 95,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre sociale",
+    "date": "2026-05-28",
+    "case_number": "24-17.311",
+    "president": "M. Flores"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Orléans, 7 mai 2024), l'unité économique et sociale (UES)\ngroupe Estivin est composée des sociétés Estivin groupe holding finance, Estivin primeurs de Loire, Primever Tours (anciennement dénommée Estivin logistique services), Logiprest, Groupe Estivin développement, Fraich'envie, Touraine primeurs Estivin marché.\n2. Le 12 mai 2001, un accord d'entreprise relatif à l'aménagement et à la réduction du\ntemps de travail a été signé entre, d'une part les sociétés de l'UES Estivin, d'autre part\nle syndicat CFDT et le syndicat CFTC.\nLe syndicat CFTC a, par la suite, perdu sa qualité d'organisation syndicale représentative au sein de l'UES.\n3. Le 27 juillet 2018, un accord d'entreprise a été signé entre les sociétés de l'UES\nEstivin et le syndicat CFDT portant avenant à l'accord du 12 mai 2001 et concernant\nla quatrième partie relative au personnel d'entrepôt des sociétés de l'UES.\n4. Le 16 novembre 2018, l'Union départementale des syndicats Force Ouvrière d'Indre-et-Loire (l'UD FO 37) a assigné devant le tribunal de grande instance les sociétés\ncomposant l'UES Estivin et l'Union départementale des syndicats CFDT d'Indre-etLoire afin d'annuler l'accord d'entreprise signé le 27 juillet 2018.\nEn cours de procédure, elle a formé une demande additionnelle tendant à dire que la\ndénonciation, par lettre du 10 février 2020, de l'accord du 12 mai 2001 était parfaite\net avait pris effet le 13 mai 2021 ou, subsidiairement, le 19 mai 2021.\n5. Le syndicat régional des transports du Centre CFDT-FGTE est volontairement\nintervenu aux débats.",
+    "claims": "Examen des moyens\nSur le premier moyen\n6. En application de l'article 1014, alinéa 2, du code de procédure civile, il n'y a pas\nlieu de statuer par une décision spécialement motivée sur ce moyen qui n'est manifestement pas de nature à entraîner la cassation.\nMais sur le second moyen\nEnoncé du moyen\n7. L'UD FO 37 fait grief à l'arrêt de rejeter sa demande tendant à juger que sa dénonciation de l'accord du 12 mai 2001 était parfaite et avait pris effet le 13 mai 2021\nou, subsidiairement, le 19 mai 2021, alors « que lorsqu'une des organisations syndicales\nde salariés signataires de la convention ou de l'accord perd la qualité d'organisation\nreprésentative dans le champ d'application de cette convention ou de cet accord, la\ndénonciation de ce texte n'emporte d'effets que si elle émane d'une ou plusieurs organisations syndicales de salariés représentatives dans son champ d'application ayant\nrecueilli la majorité des suffrages exprimés lors des dernières élections professionnelles,\npeu important sa qualité ou non de signataire de l'accord dénoncé ; qu'en considérant\nque l'UD FO 37 n'avait pas qualité pour dénoncer l'accord d'entreprise du 12 mai\n2001 au motif qu'elle n'en avait pas été signataire, cependant qu'il ressortait de ses\nconstatations, d'une part, que l'une des organisations syndicale signataires de l'accord\n\nArrêts des chambres et ordonnances du Premier Président\ndu 12 mai 2001 avait perdu sa qualité d'organisation représentative dans l'entreprise\net, d'autre part, que l'UD FO 37 était représentative dans l'entreprise et qu'elle avait\nrecueilli la majorité des suffrages exprimés lors des dernières élections professionnelles,\nla cour d'appel, qui s'est déterminée par un motif inopérant, a violé l'article L. 226110, alinéa 4, du code du travail. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article l. 2261-10 du code du travail",
+      "article 700 du code de procédure civile",
+      "article l. 2262-14 du code du travail",
+      "article l. 2253-5 du code du travail",
+      "article l. 2232-11, l. 2232-33, l.2232-34 et l. 2232-13 du code du travail",
+      "article l. 1233-24, l. 1235-7-1 et l.\n1237-19-8 du code du travail",
+      "article l. 1233-24, l. 1235-7-1 et l. 1237-198 du code du travail",
+      "article l. 2232-31, l. 2232-32 et l. 2232-34 du code du travail",
+      "article l. 2232-11 du code du travail",
+      "article l. 2232-34 du code du travail",
+      "article l. 2232-13 du code du travail",
+      "article l. 2314-11 et l. 23165 du code du travail",
+      "article l. 2121-1 du code du travail",
+      "article l. 2232-12 du code du travail",
+      "article l. 2232-11, l. 2232-13, l. 2232-33 et\nl. 2232-34 du code du travail"
+    ],
+    "previous_decision": {
+      "court": "Cour d'appel de Orléans",
+      "date": "2001-05-12"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation partielle",
+    "orders": [
+      "CASSE ET ANNULE, mais seulement en ce qu'il déboute l'Union départementale des syndicats Force Ouvrière d'Indre-et-Loire de sa demande tendant à constater les effets de la dénonciation de l'accord d'entreprise du 12 mai 2001, l'arrêt rendu le 7 mai 2024, entre les parties, par la cour d'appel d'Orléans",
+      "Remet, sur ce point, l'affaire et les parties dans l'état où elles se trouvaient avant cet arrêt et les renvoie devant la cour d'appel de Bourges."
+    ],
+    "reasoning": "Réponse de la Cour\nVu l'article L. 2261-10 du code du travail :\n8. Aux termes de l'article L. 2261-10 du code du travail, lorsque la dénonciation\némane de la totalité des signataires employeurs ou des signataires salariés, la convention\nou l'accord continue de produire effet jusqu'à l'entrée en vigueur de la convention\nou de l'accord qui lui est substitué ou, à défaut, pendant une durée d'un an à compter\nde l'expiration du délai de préavis, sauf clause prévoyant une durée déterminée supérieure. Une nouvelle négociation s'engage, à la demande d'une des parties intéressées,\ndans les trois mois qui suivent le début du préavis mentionné à l'article L. 2261-9. Elle\npeut donner lieu à un accord, y compris avant l'expiration du délai de préavis. Il en est\nde même, à la demande d'une des organisations syndicales représentatives de salariés\nintéressées, en cas de dénonciation de la convention ou de l'accord dans les conditions\nprévues à l'article L. 2261-12, s'agissant du secteur concerné par la dénonciation.\nLorsqu'une des organisations syndicales de salariés signataires de la convention ou de\nl'accord perd la qualité d'organisation représentative dans le champ d'application de\ncette convention ou de cet accord, la dénonciation de ce texte n'emporte d'effets que\nsi elle émane d'une ou plusieurs organisations syndicales de salariés représentatives\ndans son champ d'application ayant recueilli la majorité des suffrages exprimés dans\nles conditions prévues au chapitre II du titre III.\n9. Il résulte du dernier alinéa de ce texte, issu de la loi n° 2008-789 du 20 août 2008,\néclairé par les travaux parlementaires, qu'une organisation syndicale de salariés, même\nnon signataire d'un accord collectif, peut le dénoncer dès lors qu'elle a obtenu la majorité des suffrages exprimés lors des dernières élections professionnelles et qu'une des\norganisations syndicales de salariés signataires de l'accord a perdu la qualité d'organisation représentative dans le champ d'application de cette convention ou de cet accord.\n10. Pour débouter l'UD FO 37 de ses demandes relatives à la dénonciation de l'accord\ndu 12 mai 2001, l'arrêt retient que les dispositions de l'article L. 2261-10 sont relatives\nà la dénonciation par la totalité des signataires employeurs ou des signataires salariés,\nainsi que le précise l'alinéa 1er de ce texte inclus dans la sous-section du code du travail\nintitulée « dénonciation par la totalité des signataires employeurs ou salariés », que\nl'accord d'entreprise du 12 mai 2001 sur l'aménagement et la réduction du temps de\ntravail n'a été signé que par les syndicats CFTC et CFDT, que l'UD FO 37 n'ayant pas\nla qualité de signataire de cet accord, elle ne peut le dénoncer en application de l'alinéa\n4 de l'article L. 2261-10 du code du travail, quand bien même le syndicat CFTC a\nperdu sa qualité d'organisation représentative et que, le syndicat CFDT étant toujours\nreprésentatif dans le groupe Estivin, il dispose seul de la qualité pour dénoncer l'accord\nd'entreprise du 12 mai 2001.\n11. En statuant ainsi, alors qu'il résultait de ses constatations que le syndicat CFTC\navait perdu sa qualité d'organisation représentative dans le champ d'application de\nl'accord collectif du 12 mai 2001 et que l'UD FO 37 était devenue le syndicat représentatif majoritaire à l'issue des dernières élections professionnelles, la cour d'appel a\nviolé le texte susvisé.\n\nArrêts des chambres et ordonnances du Premier Président\nPortée et conséquences de la cassation\n12. La cassation du chef de dispositif déboutant l'Union départementale des syndicats\nForce Ouvrière d'Indre-et-Loire de sa demande tendant à constater les effets de la\ndénonciation de l'accord d'entreprise du 12 mai 2001 n'emporte pas celle des chefs\nde dispositif de l'arrêt condamnant l'UD FO 37 aux dépens ainsi qu'au paiement\nd'une somme en application de l'article 700 du code de procédure civile, justifiés par\nd'autres dispositions de l'arrêt non remises en cause."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 45,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Deuxième chambre civile",
+    "date": "2026-05-07",
+    "case_number": "24-19.173",
+    "president": "Mme Martinel"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n5. Selon l'arrêt attaqué (Bordeaux, 30 mai 2024), le 20 décembre 2018, Mme [E]\n[P], née en 1973, a assigné devant un tribunal de grande instance, en présence de la\ncaisse primaire d'assurance maladie de la Gironde et de la caisse d'assurance maladie\ndes industries électriques et gazières, son père, M. [E] [P], en responsabilité civile et\nindemnisation des préjudices consécutifs à des viols et agressions sexuelles que celui-ci\nlui aurait fait subir de 1982 à 1991.\n\nArrêts des chambres et ordonnances du Premier Président",
+    "claims": "Examen du moyen\nSur le moyen, pris en ses première et troisième branches\n6. En application de l'article 1014, alinéa 2, du code de procédure civile, il n'y a pas\nlieu de statuer par une décision spécialement motivée sur ces griefs qui ne sont manifestement pas de nature à entraîner la cassation.\nSur le moyen, pris en sa deuxième branche\nEnoncé du moyen\n7. M. [E] [P] fait grief à l'arrêt de déclarer recevable l'action de Mme [E] [P] et de\nconfirmer le jugement sauf sur le caractère avant dire droit de l'expertise médicale en\nle déclarant responsable du préjudice de Mme [E] [P] et en confirmant le principe\nde l'expertise, alors « que tout jugement doit être motivé à peine de nullité ; que le\npoint de départ du délai de prescription de l'action en responsabilité née à raison d'un\névénement ayant entraîné un dommage corporel, est la consolidation de ce dommage ;\nqu'en retenant pour point de départ du délai de prescription de l'action la date de\nconsolidation d'un dommage psychologique, sans s'expliquer sur le fait, soulevé par\nM. [E] [P] que le dommage purement moral dont la plaignante se prévalait n'était pas\nun dommage corporel mais la conséquence psychologique de ce dommage, la cour\nd'appel a privé sa décision de base légale au regard des articles 1240 et 2226 du code\ncivil. »\nRéponse de la Cour\n8. Aux termes de l'article 2270-1, alinéa 1er, du code civil, en vigueur du 1er janvier\n1986 au 18 juin 2008, les actions en responsabilité civile extracontractuelle se prescrivent par dix ans à compter de la manifestation du dommage ou de son aggravation.\n9. Aux termes de l'article 2270-1, alinéa 2, créé par la loi n° 98-468 du 17 juin 1998,\nlorsque le dommage est causé par des tortures et des actes de barbarie, des violences ou\ndes agressions sexuelles commises contre un mineur, l'action en responsabilité civile\nest prescrite par vingt ans.\n10. Selon une jurisprudence constante, le délai de la prescription prévue par ces textes\ncourait, en cas de préjudice corporel, à compter de la date de la consolidation.\n11. Cette solution a été consacrée par l'article 2226 du code civil, issu de la loi\nn° 2008-561 du 17 juin 2008, selon lequel l'action en responsabilité née à raison d'un\névénement ayant entraîné un dommage corporel se prescrit par dix ans à compter de\nla date de la consolidation du dommage initial ou aggravé, le délai étant porté à vingt\nans en cas de préjudice causé par des violences ou des agressions sexuelles commises\ncontre un mineur.\n12. L'atteinte à son intégrité psychique dont se prévaut la personne victime d'agression sexuelle ou de viol constitue un dommage corporel.\n13. L'arrêt constate que Mme [E] [P] a dénoncé des faits de viols et d'agressions\nsexuelles commis à son encontre par son père alors qu'elle avait neuf ans et jusqu'à ses\ndix-huit ans.\n14. Il relève qu'en 2018, elle souffrait d'un état de stress post-traumatique se manifestant par des reviviscences, cauchemars, douleurs morales, images intrusives, état dissociatif, nécessitant toujours à cette date la poursuite de sa prise en charge thérapeutique.\n\nArrêts des chambres et ordonnances du Premier Président\n15. Il retient le 11 février 2021 comme date de consolidation de l'état séquellaire de\nMme [E] [P], date de la fin de sa prise en charge thérapeutique par une psychologue\nclinicienne.\n16. L'arrêt en déduit que l'action en réparation est recevable comme n'étant pas prescrite.\n17. Ayant ainsi mis en évidence que le préjudice dont se prévalait Mme [E] [P] constituait une atteinte à son intégrité psychique et, en conséquence, un dommage corporel\nau sens et pour l'application tant de l'article 2270-1 du code civil, alors en vigueur,\nque de l'article 2226 du même code, la cour d'appel, qui a constaté que l'action avait\nété introduite avant la date de consolidation de l'état de santé de la victime qu'elle a\nsouverainement fixée, a légalement justifié sa décision."
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 978 du code de procédure civile",
+      "article 2226 du code civil",
+      "article 2270-1 du code civil"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Rejet",
+    "verdict_header": "Rejet",
+    "orders": [
+      "REJETTE le pourvoi."
+    ],
+    "reasoning": ""
+  }
+}

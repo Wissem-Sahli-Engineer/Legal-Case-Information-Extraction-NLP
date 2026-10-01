@@ -1,0 +1,44 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 20,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Première chambre civile",
+    "date": "2026-05-20",
+    "case_number": "25-12.252",
+    "president": "Mme Champalaune"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Paris, 11 février 2025), Mme [Y], de nationalité américaine\net biélorusse, a donné naissance, à [M] [Y], le 1er novembre 2019, à [Localité 8] Beach\n(Etat de Floride, Etats-Unis d'Amérique).\n2. Le 5 février 2021, Mme [Y], agissant en son nom personnel et en qualité de représentante légale de l'enfant, a assigné M. [B], en recherche de paternité.",
+    "claims": "Examen des moyens\nSur le moyen, pris en ses deuxième, troisième et cinquième branches\n3. En application de l'article 1014, alinéa 2, du code de procédure civile, il n'y a pas\nlieu de statuer par une décision spécialement motivée sur ces griefs qui ne sont manifestement pas de nature à entraîner la cassation.\nMais sur le moyen relevé d'office\n4. Après avis donné aux parties conformément à l'article 1015 du code de procédure\ncivile, il est fait application de l'article 620, alinéa 2, du même code."
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 3 et 311-4 du code civil"
+    ],
+    "previous_decision": {
+      "court": "Cour d'appel de Paris",
+      "date": "2025-02-11"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation",
+    "orders": [
+      "CASSE ET ANNULE, en toutes ses dispositions, l'arrêt rendu le 11 février 2025, entre les parties, par la cour d'appel de Paris",
+      "Remet l'affaire et les parties dans l'état où elles se trouvaient avant cet arrêt et les renvoie devant la cour d'appel de Versailles."
+    ],
+    "reasoning": "Vu les articles 3 et 311-4 du code civil :\n5. Aux termes du second de ces textes, la filiation est régie par la loi personnelle de\nla mère au jour de la naissance de l'enfant ; si la mère n'est pas connue, par la loi personnelle de l'enfant.\n6. En application du premier, lorsque la règle de conflit désigne la loi d'un Etat comprenant deux ou plusieurs systèmes de droit, et que le critère de rattachement retenu\npar la règle française de conflit ne permet pas d'identifier le système de droit applicable\nau sein de cet Etat, le système de droit applicable est celui désigné par les règles de\n\nArrêts des chambres et ordonnances du Premier Président\ndroit de cet Etat ou, à défaut de telles règles, le système de droit de cet Etat avec lequel\nla situation présente les liens les plus étroits.\n7. Pour faire application de la loi de l'Etat de Floride (Etats-Unis d'Amérique) à\nl'action en recherche de paternité engagée par Mme [Y], l'arrêt, après avoir retenu\nque la loi américaine est applicable en tant que loi nationale de la mère à l'époque\nde la naissance de l'enfant et constaté qu'il n'existe pas de loi fédérale sur la filiation\naux Etats-Unis, énonce, d'abord, qu'il incombe au juge du for de rechercher les règles\naméricaines de conflits internes afin de déterminer la loi de l'Etat fédéré qui doit être\nappliquée. Il constate, ensuite, qu'il n'existe pas de règlement uniforme des conflits internes permettant de la déterminer et retient que cette circonstance ne peut conduire\nle juge du for à faire application de la loi française par substitution, le contenu de la loi\naméricaine pouvant encore être déterminé en se référant à des solutions communes\nretenues par le système américain. Il ajoute que celui-ci donne compétence, en matière de statut personnel, à la loi du domicile, en se référant aux règles de compétence\nédictées par les « Florida Statutes », ainsi qu'au code californien de la famille, au code\nrévisé de l'Ohio ou à celui de la Virginie, qui donnent compétence au tribunal du lieu\ndu domicile du demandeur à l'action. Il en déduit que la loi de l'Etat de Floride est\napplicable au litige.\n8. En statuant ainsi, la cour d'appel a violé les textes susvisés."
+  },
+  "prediction": {
+    "model": "A · spaCy + TF-IDF + régression logistique",
+    "verdict": "Cassation",
+    "confidence": 0.9709,
+    "probabilities": {
+      "Rejet": 0.0014,
+      "Cassation": 0.9709,
+      "Irrecevabilité": 0.0003,
+      "Autre": 0.0275
+    }
+  }
+}

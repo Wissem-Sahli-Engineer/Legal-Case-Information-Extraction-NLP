@@ -1,0 +1,34 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 6,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Deuxième chambre civile",
+    "date": "2026-05-21",
+    "case_number": "24-11.784",
+    "president": "Mme Martinel"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Aix-en-Provence, 25 octobre 2023), par un jugement du\n23 novembre 2018, un juge aux affaires familiales a statué dans le litige opposant\nM. [E] et Mme [S] sur le partage judiciaire de leur indivision post-communautaire.\n2. M. [E] a relevé appel de ce jugement le 18 décembre 2018.",
+    "claims": "Examen du moyen\nEnoncé du moyen\n3. M. [E] fait grief à l'arrêt de déclarer irrecevable sa demande en paiement de diverses\nsommes et en fixation de passif à une certaine somme au titre des échéances qu'il a\npayées seul, alors « qu'en application de l'alinéa 2 de l'article 910-4 du code de procédure civile, ne sont pas irrecevables les prétentions nouvelles destinées à répliquer aux\nconclusions et pièces adverses ; que tel est le cas en matière de partage où, les parties\nétant respectivement demanderesses et défenderesses quant à l'établissement de l'actif\net du passif, toute demande doit être considérée comme une défense à une prétention\nadverse ; qu'en déclarant irrecevables les prétentions de l'appelant qui n'avaient pas été\nprésentées dans ses premières conclusions, ni dans celles du 16 juillet 2019 en réponse\nà celles de l'intimée du 31 mai 2019, la cour d'appel a violé l'article 910-4, alinéa 2 du\ncode de procédure civil. »"
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 910-4 du code de procédure civile",
+      "article 700 du code de procédure civile"
+    ],
+    "previous_decision": {
+      "court": "Cour d'appel de Aix-en-Provence",
+      "date": "2023-10-25"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation partielle",
+    "orders": [
+      "CASSE ET ANNULE, mais seulement en ce qu'il déclare irrecevable la demande en condamnation de Mme [S] à payer à M. [E] les sommes de 26 831,02 euros en exécution du jugement du tribunal de grande instance de Bordeaux du 5 novembre 1996, 111 347,54 euros au titre du contrat La Mondiale, 205 915,63 euros au titre du capital-décès UAP/AXA et 49 899,87 euros au titre d'un trop-perçu de prestation compensatoire, le tout avec intérêts légaux, et en fixation au passif de la somme de 59 124,30 euros au titre des échéances payées par M. [E] seul, ainsi qu'en ce qu'il statue sur les dépens et l'article 700 du code de procédure civile, l'arrêt rendu le 25 octobre 2023, entre les parties, par la cour d'appel d'Aix-en-Provence",
+      "Remet, sur ces points, l'affaire et les parties dans l'état où elles se trouvaient avant cet arrêt et les renvoie devant la cour d'appel d'Aix-en-Provence autrement composée."
+    ],
+    "reasoning": "Réponse de la Cour\nVu l'article 910-4 du code de procédure civile, dans sa rédaction issue du décret\nn° 2017-891 du 6 mai 2017 :\n4. En application de l'alinéa 2 de ce texte, l'irrecevabilité prévue par son alinéa 1er ne\ns'applique pas aux prétentions destinées à répliquer aux conclusions et pièces adverses.\n5. Tel est le cas en matière de partage où, les parties étant respectivement demanderesses et défenderesses quant à l'établissement de l'actif et du passif, toute demande\ndoit être considérée comme une défense à une prétention adverse.\n6. Pour déclarer irrecevables les demandes en paiement de sommes au titre de l'exécution d'un jugement, d'un contrat et d'un capital-décès, ainsi qu'en fixation d'une\nsomme au passif de communauté, l'arrêt retient, s'agissant des premières, que l'appelant ne les a pas présentées dans ses premières conclusions ni dans celles du 16 juillet\n2019 en réponse à celles de l'intimée du 31 mai 2019. Il retient, s'agissant de la dernière prétention, que, dans ses premières conclusions, l'appelant demandait de constater l'absence de passif et qu'il a sollicité, dans ses dernières conclusions, la fixation au\npassif d'une somme au titre des échéances payées par lui seul.\nL'arrêt en déduit que cette prétention s'inscrit en violation du principe de concentration temporelle de l'article 910-4 du code de procédure civile en cause d'appel.\n7. En statuant ainsi, alors que ces demandes avaient trait au partage de l'indivision liant\nles parties et devaient, en conséquence, s'analyser en une défense aux prétentions ad-\n\nArrêts des chambres et ordonnances du Premier Président\nverses, peu important qu'elles n'aient pas été présentées dans les premières conclusions\nen réplique, la cour d'appel a violé les textes susvisés."
+  }
+}

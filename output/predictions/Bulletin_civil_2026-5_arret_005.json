@@ -1,0 +1,41 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 5,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Première chambre civile",
+    "date": "2026-05-13",
+    "case_number": "24-17.060",
+    "president": "Mme Champalaune"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Versailles, 3 mai 2024), un jugement du 4 octobre 2016 a\nplacé M. [G] [Q] sous tutelle. Un arrêt du 7 juin 2017 a désigné M. [J] [Q], son fils,\nen qualité de tuteur (le tuteur), et M. [I] [R], mandataire judiciaire à la protection des\nmajeurs (le mandataire), en qualité de subrogé tuteur.\n2. Le mandataire a saisi un juge des contentieux de la protection, statuant en qualité de\njuge des tutelles, aux fins de se voir allouer une indemnité complémentaire, invoquant\navoir accompli des diligences particulièrement longues et complexes.\n3. Par ordonnance du 15 juin 2023, le juge des tutelles a fait droit à la demande.\nLe tuteur, en son nom personnel et au nom de M. [G] [Q], a relevé appel.\n4. Lors de l'audience d'appel, le tuteur, qui avait fait parvenir des conclusions écrites à\nla juridiction, n'a pas comparu. M. [G] [Q] a été représenté par un avocat.",
+    "claims": "Examen des moyens\nSur le moyen relevé d'office\n5. Après avis donné aux parties conformément à l'article 1015 du code de procédure\ncivile, il est fait application de l'article 620, alinéa 2, du même code."
+  },
+  "legal_foundations": {
+    "statutes": [],
+    "previous_decision": {
+      "court": "Cour d'appel de Versailles",
+      "date": "2024-05-03"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation sans renvoi",
+    "orders": [
+      "CASSE ET ANNULE, en toutes ses dispositions, l'arrêt rendu le 3 mai 2024, entre les parties, par la cour d'appel de Versailles."
+    ],
+    "reasoning": "Vu les articles 430, alinéa 1er, 440, alinéa 3, du code civil et 1230, 1239 et 1241-1 du\ncode de procédure civile :\n6. Selon le deuxième de ces textes, peut être placée sous tutelle la personne qui doit\nêtre représentée de manière continue dans tous les actes de la vie civile.\n\nArrêts des chambres et ordonnances du Premier Président\n7. Il résulte des autres textes que l'appel des décisions du juge des tutelles est ouvert à\nla personne protégée et à la personne chargée de la protection.\n8. Il s'en déduit que, si la personne sous tutelle peut exercer seule le droit de former\nappel des décisions du juge des tutelles la concernant, le tuteur dispose aussi du droit\nd'en relever appel au nom de la personne protégée, sans avoir à justifier d'un pouvoir\nde celle-ci.\n9. Pour juger que M. [G] [Q] n'avait pas la qualité d'appelant et confirmer la décision\ndu juge des tutelles, l'arrêt retient qu'il n'a pas signé la déclaration d'appel et que celleci ne comporte pas un pouvoir accordé à M. [J] [Q] pour relever appel en son nom.\n10. En statuant ainsi, la cour d'appel a violé les textes susvisés.\n11. Après avis donné aux parties, conformément à l'article 1015 du code de procédure\ncivile, il est fait application des articles L. 411-3, alinéa 2, du code de l'organisation\njudiciaire et 627 du code de procédure civile.\n12. L'intérêt d'une bonne administration de la justice justifie, en effet, que la Cour de\ncassation statue au fond.\n13. Il y a lieu de déclarer recevable l'appel formé par M. [G] [Q] contre l'ordonnance\ndu 15 juin 2023."
+  },
+  "prediction": {
+    "model": "A · spaCy + TF-IDF + régression logistique",
+    "verdict": "Cassation",
+    "confidence": 0.9969,
+    "probabilities": {
+      "Rejet": 0.0,
+      "Cassation": 0.9969,
+      "Irrecevabilité": 0.0011,
+      "Autre": 0.002
+    }
+  }
+}

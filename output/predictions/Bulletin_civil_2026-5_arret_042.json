@@ -1,0 +1,43 @@
+{
+  "source_file": "Bulletin_civil_2026-5.pdf",
+  "decision_index": 42,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre commerciale financière et économique",
+    "date": "2026-05-28",
+    "case_number": "25-15.132",
+    "president": "M. Ponsot"
+  },
+  "narrative": {
+    "facts": "Faits et procédure\n1. Selon l'arrêt attaqué (Saint-Denis, 21 mars 2025), [Q] [J] [H] est décédée le [Date\ndécès 1] 2018, en laissant pour lui succéder [T] [H], son fils adoptif, qui a déposé une\ndéclaration de succession le 28 février 2019.\n2. Au vu d'une déclaration de succession rectificative, l'administration fiscale a interrogé [T] [H] sur les justifications de ce qu'il avait, du temps de sa minorité, perçu des\nsoins ininterrompus de l'adoptante pendant au moins cinq ans au titre d'une prise en\ncharge continue et principale, condition posée à l'article 786, alinéa 2, 3 bis, du code\ngénéral des impôts pour bénéficier du barème applicable aux filiations en ligne directe.\n3. Le [Date décès 2] 2021, [T] [H] est lui-même décédé, en laissant pour héritières\nson épouse et sa fille, Mmes [O] [D] et [C] [H], épouse [W], suivant la déclaration de\nsuccession du 17 juin 2022.\n4. Le 6 janvier 2022, l'administration fiscale a adressé une proposition de rectification\ndes droits de mutation sur la succession de [Q] [J] [H] pour la somme de 151 783 euros.\n5. Le 24 juin 2022, l'administration ayant partiellement maintenu le redressement,\nMmes [O] [D] et [C] [H] l'ont assignée devant un tribunal judiciaire aux fins de voir\nannuler la surimposition mise à la charge de [T] [H], infirmer la décision de rejet du\n24 juin 2022 et prononcer le dégrèvement des impositions en principal et intérêts.\n6. Le 12 mars 2024, le juge de la mise en état a rendu une ordonnance écartant la fin\nde non-recevoir présentée par l'administration, pour défaut de réclamation préalable.\n\nArrêts des chambres et ordonnances du Premier Président",
+    "claims": "Examen du moyen\nSur le moyen, pris en sa première branche\nEnoncé du moyen\n7. Mmes [D] et [H] font grief à l'arrêt de déclarer irrecevable leur demande formée\npar l'assignation délivrée le 7 juillet 2023, alors « que la contestation d'une imposition\nqui a été élevée de manière prématurée, avant la mise en recouvrement de cette imposition, est régularisée, dès lors que cette mise en recouvrement est intervenue avant\nque le juge de l'impôt ne rende sa décision ; qu'en retenant, pour considérer que la\ncontestation élevée par Mmes [H] et [W] dans leur courrier du 27 août 2022, n'était\npas régulière, qu'elle avait été formée avant la mise en recouvrement des droits qui\navait fait l'objet d'un premier avis en date du 31 juillet 2023 modifié par un second\navis daté du 26 septembre 2023, quand il résultait de ses propres constatations que les\ndroits réclamés avaient été mis en recouvrement avant que le juge de l'impôt, saisi le\n7 juillet 2023, ne se prononce, ce dont il résultait que cette réclamation prématurée\navait été régularisée, la cour d'appel n'a pas tiré les conséquences légales de ses propres\nconstatations et a ainsi violé les articles R. 190-1 et R. 196-1 du livre des procédures\nfiscales. »"
+  },
+  "legal_foundations": {
+    "statutes": [],
+    "previous_decision": {
+      "court": "Cour d'appel de Saint-Denis",
+      "date": "2025-03-21"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Cassation",
+    "verdict_header": "Cassation",
+    "orders": [
+      "CASSE ET ANNULE, en toutes ses dispositions, l'arrêt rendu le 21 mars 2025, entre les parties, par la cour d'appel de Saint-Denis",
+      "Remet l'affaire et les parties dans l'état où elles se trouvaient avant cet arrêt et les renvoie devant la cour d'appel de Saint-Denis, autrement composée.",
+      "Arrêts des chambres et ordonnances du Premier Président"
+    ],
+    "reasoning": "Réponse de la Cour\nVu l'article R*196-1 du livre des procédures fiscales :\n8. Selon le a) de ce texte, pour être recevables, les réclamations relatives aux impôts\nautres que les impôts directs et les taxes annexes à ces impôts doivent être présentées à\nl'administration fiscale au plus tard le 31 décembre la deuxième année suivant la mise\nen recouvrement du rôle ou la notification d'un avis de mise en recouvrement.\n9. Il en résulte que l'irrecevabilité d'une réclamation formée avant l'envoi d'un avis de\nmise en recouvrement peut être régularisée si les impositions litigieuses sont mises en\nrecouvrement avant que le juge de l'impôt statue sur cette contestation.\n10. Pour déclarer la demande des contribuables irrecevable, l'arrêt retient que l'assignation du 7 juillet 2023, aux fins de contestation des droits rehaussés, est intervenue\navant toute réclamation contentieuse consécutive à l'avis de mise en recouvrement.\n11. En statuant ainsi, alors qu'il résultait de ses constatations qu'un premier avis de\nmise en recouvrement avait été émis le 31 juillet 2023 suivi d'un second, le 26 septembre 2023, ce dont il résulte qu'à la date à laquelle le juge de la mise en état s'est,\nle 12 mars 2024, prononcé sur la fin de non-recevoir tirée du défaut de réclamation\npréalable, le tribunal n'avait pas encore statué sur la contestation relative au bien-fondé\ndes impositions litigieuses, la cour d'appel, qui n'a pas tiré les conséquences légales de\nses propres constatations, a violé le texte susvisé."
+  },
+  "prediction": {
+    "model": "A · spaCy + TF-IDF + régression logistique",
+    "verdict": "Cassation",
+    "confidence": 0.9998,
+    "probabilities": {
+      "Rejet": 0.0001,
+      "Cassation": 0.9998,
+      "Irrecevabilité": 0.0,
+      "Autre": 0.0001
+    }
+  }
+}

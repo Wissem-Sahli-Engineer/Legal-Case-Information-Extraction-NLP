@@ -1,0 +1,35 @@
+{
+  "source_file": "Bulletin_criminel_2026-6.pdf",
+  "decision_index": 12,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre criminelle",
+    "date": "2026-06-23",
+    "case_number": "26-96.004",
+    "president": "M. Bonnal"
+  },
+  "narrative": {
+    "facts": "",
+    "claims": ""
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 398-1 du code de procédure pénale",
+      "article l. 441-1 du code de l'organisation judiciaire",
+      "article 395 et 397-1-1 du code de procédure pénale",
+      "article 395, 397-1-1, 398 et 398-1 du code de procédure pénale"
+    ],
+    "previous_decision": {
+      "court": null,
+      "date": null
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Autre",
+    "verdict_header": null,
+    "orders": [
+      "EMET l'avis suivant : Lorsqu'il est saisi selon la procédure de comparution à délai différé de poursuites diligentées à l'encontre d'un prévenu qui n'est pas placé en détention provisoire pour des infractions visées à l'article 398-1 du code de procédure pénale, le tribunal correctionnel est composé d'un seul magistrat exerçant les pouvoirs conférés au président."
+    ],
+    "reasoning": "Vu les articles L. 441-1 du code de l'organisation judiciaire et 706-64 et suivants du\ncode de procédure pénale :\n2. Il résulte des articles 395 et 397-1-1 du code de procédure pénale que seules\npeuvent faire l'objet de la procédure de comparution à délai différé ou d'une comparution immédiate les infractions punies d'au moins deux ans d'emprisonnement en\npréliminaire ou d'au moins six mois en flagrance.\n\n3. Il résulte par ailleurs des articles 398 et 398-1 du même code que sont jugés en formation de juge unique une liste limitative de délits, lorsqu'ils sont punis d'une peine\ninférieure ou égale à cinq ans d'emprisonnement, au nombre desquels les délits prévus\npar le code de la route, tels que les délits objet de la procédure suivie contre M. [M]\nau cas présent.\n4. L'article 398-1, dernier alinéa, précise toutefois que le tribunal statue obligatoirement en formation collégiale lorsque le prévenu est en état de détention provisoire\nlors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure de\ncomparution immédiate.\n5. Dès lors que ce texte mentionne la seule procédure de comparution immédiate,\nà l'exclusion de la procédure de comparution à délai différé, qui est distincte, il s'en\ndéduit que le tribunal saisi selon la procédure de comparution à délai différé statue en\nformation de juge unique lorsque le prévenu n'est pas placé en détention provisoire\net que les infractions poursuivies relèvent de cette formation de jugement, conformément au premier alinéa du texte précité."
+  }
+}

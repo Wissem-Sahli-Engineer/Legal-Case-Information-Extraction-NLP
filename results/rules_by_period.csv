@@ -1,0 +1,4 @@
+période,date_ok,chambre_ok,numero_ok,nb décisions
+avant 2000,0.933,1.0,0.029,626
+2000-2014,0.978,1.0,0.021,535
+2015 et après,0.904,0.906,0.992,798

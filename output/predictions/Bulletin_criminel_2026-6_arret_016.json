@@ -1,0 +1,48 @@
+{
+  "source_file": "Bulletin_criminel_2026-6.pdf",
+  "decision_index": 16,
+  "metadata": {
+    "court": "Cour de cassation",
+    "chamber": "Chambre criminelle",
+    "date": "2026-06-24",
+    "case_number": "26-96.003",
+    "president": "M. Bonnal"
+  },
+  "narrative": {
+    "facts": "",
+    "claims": ""
+  },
+  "legal_foundations": {
+    "statutes": [
+      "article 721 du code de procédure pénale",
+      "article l. 441-1 du code de l'organisation judiciaire",
+      "article 59, vi, de la loi n° 2021-1729",
+      "article l. 212-6 et d. 212-7 du code pénitentiaire",
+      "article 728-2 du code de procédure pénale",
+      "article 59 de la loi n° 2021-1729"
+    ],
+    "previous_decision": {
+      "court": "Cour d'appel de Versailles",
+      "date": "2026-03-20"
+    }
+  },
+  "outcome": {
+    "verdict_rules": "Autre",
+    "verdict_header": null,
+    "orders": [
+      "EMET l'avis suivant : Le régime de réduction de peine applicable à la personne incarcérée dans un État étranger puis transférée en France pour y accomplir la partie de la peine restant à subir est celui en vigueur à la date à laquelle la personne condamnée à l'étranger a été écrouée en France."
+    ],
+    "reasoning": "Vu les articles L. 441-1 du code de l'organisation judiciaire et 706-64 et suivants du\ncode de procédure pénale :\n2. Selon l'article 59, VI, de la loi n° 2021-1729 du 22 décembre 2021, le nouveau régime de réduction de peine issue de cette loi est applicable aux personnes placées sous\nécrou à compter du 1er janvier 2023, tandis que les personnes placées sous écrou avant\ncette date demeurent soumises au régime antérieur du crédit de réduction de peine.\n3. Il résulte des articles L. 212-6 et D. 212-7 du code pénitentiaire que l'écrou est\nl'acte dressé par l'administration pénitentiaire lors de la conduite de toute personne\ndans un établissement pénitentiaire en exécution d'une décision de condamnation,\nconstatant, sur le registre prévu à cet effet, la remise de la personne et mentionnant\nla date du titre de détention et l'autorité dont il émane. Il s'en déduit que l'écrou, au\nsens de l'article 59, VI, de la loi précitée, ne peut être dressé qu'en France, par l'administration pénitentiaire française.\n4. Selon l'article 728-2 du code de procédure pénale, lorsque, en application d'un\naccord international, une personne détenue en exécution d'une condamnation prononcée par une juridiction étrangère est transférée sur le territoire français pour y\naccomplir la partie de la peine restant à subir, l'exécution de la peine est poursuivie\nconformément aux dispositions de ce code.\n5. Il s'en déduit que, lorsqu'une personne détenue à l'étranger en exécution d'une\ncondamnation prononcée par une juridiction étrangère est transférée sur le territoire\nfrançais pour y accomplir la partie de la peine restant à subir, l'exécution de la peine est\npoursuivie conformément aux dispositions du code de procédure pénale en vigueur à\nla date du transfèrement de l'intéressé sur le territoire national, qui les rend applicables\nà l'exécution de la peine prononcée à l'étranger.\n6. Il en résulte que le régime de réduction de peine applicable est celui en vigueur à\nla date à laquelle la personne condamnée à l'étranger a été écrouée en France."
+  },
+  "prediction": {
+    "model": "A · spaCy + TF-IDF + régression logistique",
+    "verdict": "Autre",
+    "confidence": 0.5045,
+    "probabilities": {
+      "Rejet": 0.3083,
+      "Cassation": 0.1141,
+      "Irrecevabilité": 0.0731,
+      "Autre": 0.5045
+    }
+  }
+}
