@@ -1,5 +1,5 @@
 """
-Génère le rapport PDF du projet (mise en page d'article scientifique sur deux colonnes).
+Génère le rapport PDF du projet (mise en page d'article scientifique sur une colonne, comme « Attention Is All You Need »).
 
     python report/build_report.py      ->  report/rapport_extraction_decisions_justice.pdf
 
@@ -18,8 +18,9 @@ from reportlab.lib.units import cm
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.fonts import addMapping
-from reportlab.platypus import (BaseDocTemplate, Frame, FrameBreak, Image, KeepTogether, NextPageTemplate,
-                                PageBreak, PageTemplate, Paragraph, Spacer, Table, TableStyle)
+from reportlab.platypus import (BaseDocTemplate, Frame, Image, KeepTogether, PageBreak, PageTemplate, Paragraph,
+                                Spacer, Table, TableStyle)
+from reportlab.platypus.flowables import HRFlowable
 
 ROOT = Path(__file__).resolve().parent.parent
 RES, FIG = ROOT / "results", ROOT / "figures"
@@ -40,36 +41,27 @@ else:
     F, FB, FI = "Times-Roman", "Times-Bold", "Times-Italic"
 
 # ----------------------------------------------------------------------------
-# Mise en page : A4, première page = titre + résumé sur toute la largeur, puis deux colonnes
+# Mise en page : A4, une seule colonne (comme « Attention Is All You Need », format NeurIPS)
 # ----------------------------------------------------------------------------
 PAGE_W, PAGE_H = A4
-M_LR, M_TOP, M_BOT, GAP = 1.9 * cm, 2.0 * cm, 2.0 * cm, 0.6 * cm
-COL_W = (PAGE_W - 2 * M_LR - GAP) / 2
-TITLE_H = 10.2 * cm
+M_LR, M_TOP, M_BOT = 2.6 * cm, 2.5 * cm, 2.5 * cm
+TEXT_W = PAGE_W - 2 * M_LR          # largeur du texte (~15,8 cm)
+COL_W = 12 * cm                     # largeur par défaut des tableaux (centrés)
+FIG_W = 10.5 * cm                   # largeur par défaut des figures (centrées)
 BODY_H = PAGE_H - M_TOP - M_BOT
 
 
 def footer(canvas, doc):
     canvas.saveState()
-    canvas.setFont(F, 8.5)
-    canvas.drawCentredString(PAGE_W / 2, 1.1 * cm, str(doc.page))
+    canvas.setFont(F, 9)
+    canvas.drawCentredString(PAGE_W / 2, 1.4 * cm, str(doc.page))
     canvas.restoreState()
 
 
-def two_cols(top, height, prefix):
-    return [Frame(M_LR, top - height, COL_W, height, id=f"{prefix}1", leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0),
-            Frame(M_LR + COL_W + GAP, top - height, COL_W, height, id=f"{prefix}2", leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)]
-
-
-first_frames = [Frame(M_LR, PAGE_H - M_TOP - TITLE_H, PAGE_W - 2 * M_LR, TITLE_H, id="title",
-                      leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)] + \
-               two_cols(PAGE_H - M_TOP - TITLE_H, BODY_H - TITLE_H, "f")
 doc = BaseDocTemplate(str(OUT), pagesize=A4, title="Extraction d'informations dans les décisions de justice",
                       author="Wissem Sahli")
 doc.addPageTemplates([
-    PageTemplate(id="first", frames=first_frames, onPage=footer),
-    PageTemplate(id="twocol", frames=two_cols(PAGE_H - M_TOP, BODY_H, "c"), onPage=footer),
-    PageTemplate(id="onecol", frames=[Frame(M_LR, M_BOT, PAGE_W - 2 * M_LR, BODY_H, id="one",
+    PageTemplate(id="onecol", frames=[Frame(M_LR, M_BOT, TEXT_W, BODY_H, id="one",
                                             leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)], onPage=footer),
 ])
 
@@ -77,20 +69,20 @@ doc.addPageTemplates([
 # Styles
 # ----------------------------------------------------------------------------
 S = {
-    "title": ParagraphStyle("title", fontName=FB, fontSize=16.5, leading=20, alignment=TA_CENTER, spaceAfter=10),
+    "title": ParagraphStyle("title", fontName=FB, fontSize=17, leading=21, alignment=TA_CENTER, spaceBefore=6, spaceAfter=8),
     "author": ParagraphStyle("author", fontName=F, fontSize=11, leading=14, alignment=TA_CENTER),
     "affil": ParagraphStyle("affil", fontName=FI, fontSize=9.5, leading=12, alignment=TA_CENTER, spaceAfter=12),
     "abs_h": ParagraphStyle("abs_h", fontName=FB, fontSize=11, leading=14, alignment=TA_CENTER, spaceAfter=4),
-    "abs": ParagraphStyle("abs", fontName=F, fontSize=9.3, leading=11.6, alignment=TA_JUSTIFY, leftIndent=1.3 * cm, rightIndent=1.3 * cm),
-    "body": ParagraphStyle("body", fontName=F, fontSize=9.7, leading=11.9, alignment=TA_JUSTIFY, spaceAfter=4.5),
-    "bullet": ParagraphStyle("bullet", fontName=F, fontSize=9.7, leading=11.9, alignment=TA_JUSTIFY, leftIndent=10, bulletIndent=1, spaceAfter=2),
-    "h1": ParagraphStyle("h1", fontName=FB, fontSize=11.5, leading=14, spaceBefore=9, spaceAfter=5),
-    "h2": ParagraphStyle("h2", fontName=FB, fontSize=10, leading=12.5, spaceBefore=6, spaceAfter=3),
-    "caption": ParagraphStyle("caption", fontName=F, fontSize=8.3, leading=10, alignment=TA_JUSTIFY, spaceBefore=3, spaceAfter=9),
-    "cell": ParagraphStyle("cell", fontName=F, fontSize=7.6, leading=9, alignment=TA_LEFT),
-    "cellb": ParagraphStyle("cellb", fontName=FB, fontSize=7.6, leading=9, alignment=TA_LEFT),
-    "ref": ParagraphStyle("ref", fontName=F, fontSize=8.2, leading=10, alignment=TA_LEFT, leftIndent=14, firstLineIndent=-14, spaceAfter=2.5),
-    "code": ParagraphStyle("code", fontName="Courier", fontSize=7.2, leading=8.6, leftIndent=4, spaceAfter=0),
+    "abs": ParagraphStyle("abs", fontName=F, fontSize=10, leading=12.5, alignment=TA_JUSTIFY, leftIndent=1.2 * cm, rightIndent=1.2 * cm, spaceAfter=10),
+    "body": ParagraphStyle("body", fontName=F, fontSize=10.3, leading=13, alignment=TA_JUSTIFY, spaceAfter=5.5),
+    "bullet": ParagraphStyle("bullet", fontName=F, fontSize=10.3, leading=13, alignment=TA_JUSTIFY, leftIndent=14, bulletIndent=3, spaceAfter=2.5),
+    "h1": ParagraphStyle("h1", fontName=FB, fontSize=12, leading=15, spaceBefore=12, spaceAfter=6),
+    "h2": ParagraphStyle("h2", fontName=FB, fontSize=10.5, leading=13, spaceBefore=8, spaceAfter=4),
+    "caption": ParagraphStyle("caption", fontName=F, fontSize=9, leading=11, alignment=TA_JUSTIFY, leftIndent=0.8 * cm, rightIndent=0.8 * cm, spaceBefore=3, spaceAfter=10),
+    "cell": ParagraphStyle("cell", fontName=F, fontSize=8.6, leading=10.2, alignment=TA_LEFT),
+    "cellb": ParagraphStyle("cellb", fontName=FB, fontSize=8.6, leading=10.2, alignment=TA_LEFT),
+    "ref": ParagraphStyle("ref", fontName=F, fontSize=9, leading=11, alignment=TA_JUSTIFY, leftIndent=18, firstLineIndent=-18, spaceAfter=3),
+    "code": ParagraphStyle("code", fontName="Courier", fontSize=8, leading=9.6, leftIndent=0.8 * cm, spaceAfter=0),
 }
 
 story = []
@@ -115,7 +107,7 @@ def H2(text):
     story.append(Paragraph(text, S["h2"]))
 
 
-def figure(path, caption, width=COL_W):
+def figure(path, caption, width=FIG_W):
     counters["fig"] += 1
     img = Image(str(path))
     ratio = img.imageHeight / img.imageWidth
@@ -128,7 +120,9 @@ def table(rows, caption, col_widths=None, bold_rows=(), width=COL_W):
     """Tableau style « article » : filets en haut, sous l'en-tête et en bas (comme dans Attention Is All You Need)."""
     counters["tab"] += 1
     data = [[Paragraph(str(c), S["cellb"] if (r == 0 or r in bold_rows) else S["cell"]) for c in row] for r, row in enumerate(rows)]
-    t = Table(data, colWidths=col_widths or [width / len(rows[0])] * len(rows[0]), hAlign="CENTER")
+    widths = col_widths or [width / len(rows[0])] * len(rows[0])
+    widths = [w * width / sum(widths) for w in widths]          # le tableau occupe toujours la largeur COL_W, centré
+    t = Table(data, colWidths=widths, hAlign="CENTER")
     t.setStyle(TableStyle([
         ("LINEABOVE", (0, 0), (-1, 0), 1.0, colors.black),
         ("LINEBELOW", (0, 0), (-1, 0), 0.5, colors.black),
@@ -172,8 +166,10 @@ A20, B20, NB, RULES = R["A · TF-IDF + RL (20k)"], R["B · CNN Keras (20k)"], R[
 # ============================================================================
 
 # ---------------- Titre et résumé (pleine largeur) ----------------
+story.append(HRFlowable(width="100%", thickness=3.2, color=colors.black, spaceBefore=0, spaceAfter=10))
 P("Extraction d'informations dans les décisions de justice :<br/>règles, TF-IDF, réseau convolutif et CamemBERT<br/>"
   "sur les arrêts de la Cour de cassation", "title")
+story.append(HRFlowable(width="100%", thickness=0.9, color=colors.black, spaceBefore=6, spaceAfter=14))
 P("Wissem Sahli", "author")
 P("Projet de traitement automatique du langage naturel (NLP) — octobre 2026", "affil")
 P("Résumé", "abs_h")
@@ -192,8 +188,7 @@ P(f"Les décisions de justice sont des textes longs, peu structurés et rédigé
   f"retrouve l'issue avec une accuracy de {pct(prod.loc['règles', 'accuracy'], 0)} par règles sur le dispositif et de "
   f"{pct(prod.loc[['A', 'B', 'C'], 'accuracy'].max(), 0)} "
   f"pour le meilleur modèle lisant les motivations.", "abs")
-story.append(NextPageTemplate("twocol"))
-story.append(FrameBreak())
+story.append(Spacer(1, 4))
 
 # ---------------- 1. Introduction ----------------
 H1("1&nbsp;&nbsp;Introduction et problématique")
@@ -325,7 +320,9 @@ P("Pour les modèles A et B, les motivations passent par le modèle français <f
   "de spaCy [15] : <b>tokenisation</b>, <b>lemmatisation</b> (« violé », « viole » → « violer »), suppression des mots "
   "vides, de la ponctuation et des nombres. Les <b>négations</b> (« ne », « pas », « non », « sans »…) sont "
   "volontairement conservées : « le moyen <i>n'est pas</i> fondé » (rejet) ne doit pas devenir « moyen fondé ». "
-  "Exemple : « D'où il suit que le moyen n'est pas fondé » → <i>suivre moyen ne pas fonder</i>.")
+  "Exemple réel : « D'où il suit que le moyen n'est pas fondé ; qu'en statuant ainsi, la cour d'appel a violé le texte "
+  "susvisé » → <i>moyen ne pas fonder statuer cour appel violer texte susviser</i>. En moyenne, une motivation passe "
+  "de 207 mots à 91 lemmes.")
 H2("4.4&nbsp;&nbsp;Modèles de classification")
 P("<b>Modèle A — TF-IDF + régression logistique.</b> Unigrammes et bigrammes de lemmes (fréquence minimale 3, "
   "100 000 variables, TF sous-linéaire), puis régression logistique avec pondération équilibrée des classes ; la "
@@ -560,15 +557,14 @@ for i, r in enumerate(REFS, start=1):
     story.append(Paragraph(f"[{i}]&nbsp;&nbsp;{r}", S["ref"]))
 
 # ---------------- Annexe (pleine largeur) ----------------
-story.append(NextPageTemplate("onecol"))
 story.append(PageBreak())
 H1("Annexe A&nbsp;&nbsp;Figures complémentaires")
 figure(FIG / "confusion_matrices.png", "Matrices de confusion normalisées par ligne (vraie classe) sur le test, pour les "
-       "trois modèles. La diagonale donne le rappel de chaque classe.", width=PAGE_W - 2 * M_LR)
+       "trois modèles. La diagonale donne le rappel de chaque classe.", width=TEXT_W)
 figure(FIG / "model_b_training.png", "Courbes d'apprentissage du modèle B (CNN Keras) : perte et accuracy sur "
-       "l'entraînement et la validation. L'arrêt précoce garde les poids de la meilleure époque.", width=0.75 * (PAGE_W - 2 * M_LR))
+       "l'entraînement et la validation. L'arrêt précoce garde les poids de la meilleure époque.", width=0.75 * TEXT_W)
 figure(FIG / "eda_completeness.png", "Taux de remplissage des champs du jeu de données (553 075 décisions).",
-       width=0.6 * (PAGE_W - 2 * M_LR))
+       width=0.6 * TEXT_W)
 H1("Annexe B&nbsp;&nbsp;Exemple de sortie JSON (extrait)")
 for line in EXAMPLE_JSON.split("\n"):
     story.append(Paragraph(line.replace(" ", "&nbsp;").replace("<", "&lt;") or "&nbsp;", S["code"]))
